@@ -1,7 +1,9 @@
 # Shark Attacks
 
 ## Topic and Reason for Selection
-There is risk associated with all ocean activities and while the risk of a shark attack is very low, it still occurs fairly frequently.  With this information we hope to increase our customer base by shining a light on which factors contribute toward the attack having a fatal outcome or not. 
+There is risk associated with all ocean activities and while the risk of a shark attack is very low, it still occurs fairly frequently.  With this information we hope to increase our customer awareness of the reasons associated with unprovoked shark bites, determine which factors contribute toward the attack having a fatal outcome and educate swimmers on ways to reduce their risk of being bitten by a shark. 
+
+An unprovoked shark attack is defined as a shark bite that occurs in the natural environment of the animal and was not caused by a provocation from the human.
 
 ## Sources of Data
 #### Sources of Data
@@ -9,26 +11,26 @@ There is risk associated with all ocean activities and while the risk of a shark
 - attacks.csv: https://www.kaggle.com/datasets/felipeesc/shark-attack-dataset?resource=download
 
 #### Factors to Consider
-- Fatality: Dependent variable
-- Type: unprovoked only
-- Activities: surfing, swimming, snorkeling/scuba diving, fishing
-- Locations: area, country
+- Fatality of the attack
+- Type of attack: for the purpose of this research we will focus on unprovoked attacks only.
+- Victim Activity during attack
+- Locations where the attack occur: area and country
 
 ## Questions
 What is the probability of a shark attack based on location?
-Contributing factors that can cause a fatal shark attack
+Which factors contribute to a fatal vs non-fatal shark attack?
 
 ## Communication Protocols
-Slack: to coordinate zoom meetings and ongoing communication
-Zoom: 
+1. Slack: used for ongoing communication and to coordinate zoom meetings.
+2. Zoom: 
   - Sunday morning, 9:00 AM
-  - Monday, Wednesday
+  - Monday, Wednesday (during class time)
   - Tuesday (TBD)
 
 ## Machine Learning Model
-Using a logistic regression model, we will explore which features are most likely to produce a target variable of a fatal shark attack or not fatal attack. Such features include: Date, year, type, country , area, location, activity, name, sex, age, injury, time, and species.  There is risk associated with all ocean activities and while the risk of a shark attack is very low, it still occurs fairly frequently.  With this information we hope to shine light on which factors contribute toward the attack having a fatal outcome or not. 
+We will conduct a logistic regression model. The target variable we are trying to predict is the fatality of the bite. We will explore which features are most likely to produce a fatal vs. not fatal shark attack. Such features include: Date, year, type, country , area, location, victim's activity, injury, time, and species.  There is risk associated with all ocean activities and while the risk of a shark attack is very low, it still occurs fairly frequently.  With this information we hope to shine light on which factors contribute toward the attack having a fatal outcome or not. 
 
-Data will need to be cleaned to eliminate non-useful columns, and data. Text features will have to to converted into numeric data and the numeric data will need to be scaled before the models can ran. In the end, we will produce a confusion matrix and classification report to determine if the model was successful.
+Data will need to be cleaned to eliminate non-relevant variables. Text features will have to to converted into numeric data and the numeric data will need to be scaled before the models can ran. In the end, we will produce a confusion matrix and classification report to determine if the model was successful.
 
 ## Database Integration
 
