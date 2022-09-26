@@ -1,0 +1,5 @@
+-- Joining Attacks and Hemisphere tables
+SELECT * 
+FROM Attacks
+LEFT JOIN Hemisphere
+ON Attacks.Country = Hemisphere.Country;
