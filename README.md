@@ -15,7 +15,41 @@ An unprovoked shark attack is defined as a shark bite that occurs in the natural
 - Type of attack: for the purpose of this research we will focus on unprovoked attacks only.
 - Victim Activity during attack
 - Locations where the attack occur: area and country
+Identifying severity is difficult as the coding used is not uniform and detailed enough to verify severity of the incident. 
+Identify if certain activities increase the probability of a fatal encounter. (We could also drive down for each activity to see which one, takes you near larger sharks.)
 
+- Fatality: (Y) Dependent variable
+- Type: unprovoked 
+- Activities: surfing, swimming, snorkeling/scuba diving, fishing
+- Locations: area, country
+
+Identify if size of the shark increases the probability of a fatal encounter. (We could look at the type as well, we would need to extract it.)
+
+* Fatality: (Y) Dependent variable
+* Type: unprovoked 
+* Species: Extract size. 
+* Locations: area, country
+
+Identify if seasons increases the probability of a fatal encounter. (We could do the same with a weather model and look at different temperatures)
+
+* Fatality: (Y) Dependent variable
+* Type: unprovoked 
+* Date: Compare the time of year to identify which season it is. We could also find or create a dataset that will do this automatically by joining them both. 
+* Locations: area, country
+
+Identify if an increase in tourism increases the probability of a fatal encounter. 
+
+* Fatality: (Y) Dependent variable
+* Type: unprovoked 
+* Date: Compare the time of year to identify which season it is. We could also find or create a dataset that will do this automatically by joining them both. 
+* Locations: area, country
+
+Identify if certain activities increase the probability of having an encounter.
+
+* Fatality: (Y & N) Dependent variable
+* Type: unprovoked 
+* Activities: surfing, swimming, snorkeling/scuba diving, fishing
+* Locations: area, country
 ## Questions
 What is the probability of a shark attack based on location?
 Which factors contribute to a fatal vs non-fatal shark attack?
