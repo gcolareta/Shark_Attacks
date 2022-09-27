@@ -50,6 +50,7 @@ Identify if certain activities increase the probability of having an encounter.
 * Type: unprovoked 
 * Activities: surfing, swimming, snorkeling/scuba diving, fishing
 * Locations: area, country
+
 ## Questions
 What is the probability of a shark attack based on location?
 Which factors contribute to a fatal vs non-fatal shark attack?
