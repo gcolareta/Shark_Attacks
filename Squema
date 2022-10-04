@@ -2,23 +2,15 @@
 -- Creating the table for the raw shark attacks dataset
 CREATE TABLE Attacks (
     Country VARCHAR(40) NOT NULL,
-    Case_Number DATE NOT NULL,
-    Date DATE NOT NULL,
-    Year DATE NOT NULL,
-    Type VARCHAR(40) NOT NULL,
+    Year FLOAT NOT NULL,
     Area VARCHAR(40) NOT NULL,
     Location VARCHAR(40) NOT NULL,
     Activity VARCHAR(40) NOT NULL,
-    Name VARCHAR(40) NOT NULL,
     Sex VARCHAR(40) NOT NULL,
     Age VARCHAR(40) NOT NULL,
     Injury VARCHAR(40) NOT NULL, 
     Fatal_Y_N VARCHAR(40) NOT NULL,
-    Time VARCHAR(40) NOT NULL,
-    Species VARCHAR (40) NOT NULL,
-    Investigator_or_Source VARCHAR(40) NOT NULL,
-    pdf VARCHAR (40) NOT NULL,
-    href VARCHAR(40) NOT NULL,
+    Month INT NOT NULL,
     PRIMARY KEY (Country)
  );
 
