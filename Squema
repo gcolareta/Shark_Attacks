@@ -1,5 +1,12 @@
 
 -- Creating the table for the raw shark attacks dataset
+CREATE TABLE Countries (
+    Country VARCHAR(40) NOT NULL,
+    Month VARCHAR (40) NOT NULL,
+);
+
+
+
 CREATE TABLE Attacks (
     Country VARCHAR(40) NOT NULL,
     Year FLOAT NOT NULL,
