@@ -77,7 +77,9 @@ Please find below the ERD
 
 ![Database%20ERD](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Database%20ERD.png)
 ![Join](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Join.png)
-![Presentation](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Presentation.png)
+
+
+![Untitled](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Presentation/Untitled.png)
 
 *** Index of the Presentation*** (Please see Presentation folder)
 
