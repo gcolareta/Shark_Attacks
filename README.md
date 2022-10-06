@@ -81,7 +81,7 @@ Please find below the ERD
 
 ![Untitled](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Presentation/Untitled.png)
 
-![Model](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Model.png)
+![model](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/model.png)
 
 **Index of the Presentation** (Please see Presentation folder)
 
