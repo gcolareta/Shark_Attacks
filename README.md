@@ -76,3 +76,24 @@ The final dataframe will be stored in the database on Postgres SQL server where 
 Please find below the ERD
 
 ![Database%20ERD](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Database%20ERD.png)
+![Join](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Join.png)
+
+
+![model](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/model.png)
+
+
+![Untitled](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Presentation/Untitled.png)
+
+**Index of the Presentation** (Please see Presentation folder)
+
++ Topic and Target Audience
+
++ Data processing
+
++ Test Cases
+
++ Database Integration
+
++ Machine Learning Model
+
++ Recommendations
