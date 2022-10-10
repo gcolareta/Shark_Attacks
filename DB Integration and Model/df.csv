@@ -1,0 +1,851 @@
+country,year,area,activity,sex,age,fatal_y_n,month,hemisph,Season
+USA,2018.0,Georgia,Standing,F,11,N,6,North,summer
+USA,2018.0,Florida,Fishing,M,52,N,5,North,spring
+USA,2018.0,Florida,Walking,M,15,N,5,North,spring
+USA,2018.0,Florida,Standing,M,12,N,5,North,spring
+USA,2018.0,South Carolina,Boogie boarding,M,10,N,5,North,spring
+USA,2018.0,South Carolina,Swimming,M,10,N,5,North,spring
+USA,2018.0,Hawaii,Body boarding,M,29,N,4,North,spring
+USA,2018.0,Hawaii,Stand-Up Paddleboarding,M,25,N,3,North,spring
+USA,2017.0,Hawaii,Surfing,F,54,N,12,North,winter
+USA,2017.0,California,Surfing,F,35,N,12,North,winter
+USA,2017.0,California,Spearfishing,M,25,N,11,North,winter
+USA,2017.0,Florida,Surfing,F,14,N,11,North,winter
+USA,2017.0,Hawaii,Stand-Up Paddleboarding,M,0,N,10,North,fall
+USA,2017.0,Florida,Surfing ,M,17,N,10,North,fall
+USA,2017.0,Florida,Swimming,F,60,N,10,North,fall
+USA,2017.0,Florida,Swimming,M,0,N,10,North,fall
+USA,2017.0,Hawaii,Surfing,M,54,N,10,North,fall
+USA,2017.0,Hawaii,Snorkeling,F,40,N,10,North,fall
+USA,2017.0,Florida,Surfing,M,0,N,9,North,fall
+USA,2017.0,Florida,Surfing,M,0,N,9,North,fall
+USA,2017.0,Florida,Surfing,M,0,N,9,North,fall
+USA,2017.0,Florida,Surfing,M,28,N,9,North,fall
+USA,2017.0,Florida,Surfing,M,18,N,9,North,fall
+USA,2017.0,Florida,Swimming,M,0,N,9,North,fall
+USA,2017.0,Texas,Swimming,F,0,N,9,North,fall
+USA,2017.0,Florida,Surfing,M,17,N,9,North,fall
+USA,2017.0,Florida,Wading,F,3,N,8,North,summer
+USA,2017.0,Massachusetts,SUP,M,69,N,8,North,summer
+USA,2017.0,South Carolina,Swimming,M,13,N,8,North,summer
+USA,2017.0,Florida,Skimboarding,M,15,N,7,North,summer
+USA,2017.0,South Carolina,other,F,12,N,7,North,summer
+"ST HELENA, British overseas territory",2017.0,Ascension Island,Surfing,M,37,N,7,South,winter
+USA,2017.0,New Jersey,other,F,0,N,7,North,summer
+USA,2017.0,Florida,other,F,40,N,7,North,summer
+USA,2017.0,California,SUP,M,50,N,7,North,summer
+USA,2017.0,Washington,Surfing,M,0,N,7,North,summer
+USA,2017.0,Florida,Swimming,M,46,N,7,North,summer
+USA,2017.0,South Carolina,Swimming,F,16,N,6,North,summer
+USA,2017.0,Florida,Surfing,M,0,N,6,North,summer
+USA,2017.0,South Carolina,Swimming,F,14,N,6,North,summer
+USA,2017.0,Florida,Surfing,M,19,N,6,North,summer
+USA,2017.0,Florida,Spearfishing,M,0,N,6,North,summer
+USA,2017.0,Florida,Feeding sharks,M,0,N,5,North,spring
+USA,2017.0,California,Swimming,F,0,N,4,North,spring
+USA,2017.0,South Carolina,Surfing,F,33,N,4,North,spring
+"ST HELENA, British overseas territory",2017.0,Ascension Island,Snorkeling,F,40,N,4,South,fall
+USA,2017.0,Florida,other,UNKNOWN,0,N,4,North,spring
+USA,2017.0,Hawaii,Surfing,M,28,N,4,North,spring
+USA,2017.0,Florida,Surfing,M,17,N,4,North,spring
+USA,2017.0,Florida,Surfing,F,0,N,4,North,spring
+USA,2017.0,Florida,Surfing,F,35,N,4,North,spring
+USA,2017.0,Florida,Paddle boarding,F,10,N,4,North,spring
+USA,2017.0,Florida,Swimming,F,21,N,4,North,spring
+USA,2017.0,Florida,Swimming,M,16,N,4,North,spring
+USA,2017.0,Florida,Swimming,F,51,N,4,North,spring
+USA,2017.0,Florida,Swimming,F,17,N,4,North,spring
+USA,2017.0,Florida,Surfing,M,58,N,3,North,spring
+USA,2017.0,Florida,Swimming,M,22,N,2,North,winter
+USA,2017.0,Florida,other,M,Teen,N,1,North,winter
+USA,2017.0,Florida,other,M,0,N,1,North,winter
+USA,2017.0,Florida,Wading,M,47,N,1,North,winter
+USA,2016.0,Florida,Surfing,M,16,N,12,North,winter
+USA,2016.0,Hawaii,Floating,F,58,N,11,North,winter
+USA,2016.0,Florida,Surfing,M,41,N,10,North,fall
+USA,2016.0,Florida,Surfing,M,42,N,10,North,fall
+USA,2016.0,Hawaii,Surfing,M,36,N,10,North,fall
+USA,2016.0,Hawaii,Snorkeling,F,66,N,10,North,fall
+USA,2016.0,Oregon,Surfing,M,29,N,10,North,fall
+USA,2016.0,Florida,Surfing,M,21,N,10,North,fall
+USA,2016.0,Florida,Surfng,M,32,N,10,North,fall
+USA,2016.0,Florida,Surfing,M,16,N,9,North,fall
+USA,2016.0,Florida,Surfing,M,36,N,9,North,fall
+USA,2016.0,Florida,Surfing,M,43,N,9,North,fall
+USA,2016.0,California,Surfing,M,43,N,9,North,fall
+USA,2016.0,Florida,Wading,M,60s,N,9,North,fall
+USA,2016.0,Hawaii,Swimming,F,51,N,9,North,fall
+USA,2016.0,South Carolina,Boogie boarding,F,12,N,9,North,fall
+USA,2016.0,Florida,Body boarding,M,9,N,9,North,fall
+USA,2016.0,California,Spearfishing,M,22,N,9,North,fall
+USA,2016.0,Florida,Surfing,M,25,N,8,North,summer
+USA,2016.0,Florida,Surfing,M,37,N,8,North,summer
+USA,2016.0,Florida,Wading,M,49,N,8,North,summer
+USA,2016.0,Hawaii,SUP Foil boarding,M,21,N,8,North,summer
+USA,2016.0,Florida,Surfing,M,22,N,8,North,summer
+USA,2016.0,Florida,Surfing,F,9,N,7,North,summer
+USA,2016.0,Florida,other,F,11,N,7,North,summer
+USA,2016.0,California,Kite surfing,M,61,N,7,North,summer
+USA,2016.0,South Carolina,Swimming,M,0,N,7,North,summer
+USA,2016.0,Florida,Swimming,F,42,N,7,North,summer
+USA,2016.0,South Carolina,other,M,35,N,6,North,summer
+USA,2016.0,North Carolina,Surfing,M,11,N,6,North,summer
+USA,2016.0,South Carolina,Floating,M,42,N,6,North,summer
+USA,2016.0,Florida,Wading,M,0,N,6,North,summer
+USA,2016.0,Hawaii,Surfing,M,0,N,6,North,summer
+USA,2016.0,Texas,Floating in tube,F,6,N,6,North,summer
+USA,2016.0,North Carolina,Standing,M,19,N,6,North,summer
+USA,2016.0,Florida,Swimming,M,64,N,6,North,summer
+USA,2016.0,California,Swimming,F,52,N,5,North,spring
+USA,2016.0,Florida,Swimming,M,13,N,5,North,spring
+USA,2016.0,Florida,Swimming,F,57,N,5,North,spring
+USA,2016.0,Florida,Swimming,F,22,N,5,North,spring
+USA,2016.0,Florida,Swimming,F,11,N,5,North,spring
+USA,2016.0,Florida,Swimming,M,48,N,5,North,spring
+USA,2016.0,Hawaii,Floating,M,59,N,5,North,spring
+USA,2016.0,Florida,Surfing,M,15,N,4,North,spring
+USA,2016.0,Florida,Spearfishing,M,26,N,4,North,spring
+USA,2016.0,Florida,Fishing,M,34,N,4,North,spring
+USA,2016.0,Hawaii,Snorkeling,F,46,N,3,North,spring
+USA,2016.0,Florida,other,M,Teen,N,3,North,spring
+USA,2016.0,Florida,Body surfing,M,19,N,3,North,spring
+Fiji,2016.0,Vanua Levu,Diving for beche-de-mer,M,45,Y,3,South,fall
+USA,2016.0,Florida,other,M,12,N,3,North,spring
+USA,2016.0,Hawaii,Surfing,M,0,N,1,North,winter
+USA,2016.0,Hawaii,Surfing,F,15,N,1,North,winter
+USA,2016.0,Texas,Spearfishing,M,0,N,1,North,winter
+USA,2016.0,Hawaii,Paddle boarding,M,48,N,1,North,winter
+USA,2015.0,Hawaii,Paddle boarding,M,71,N,12,North,winter
+USA,2015.0,Florida,Surfing,M,0,N,11,North,winter
+USA,2015.0,Florida,Swimming,F,0,N,11,North,winter
+USA,2015.0,Florida,Surfing,M,28,N,11,North,winter
+USA,2015.0,Hawaii,Swimming,M,54,N,11,North,winter
+USA,2015.0,Florida,Wading,F,28,N,11,North,winter
+USA,2015.0,Hawaii,Body boarding,M,10,N,10,North,fall
+USA,2015.0,Florida,Surfing,M,21,N,10,North,fall
+USA,2015.0,Florida,Surfing,M,21,N,10,North,fall
+USA,2015.0,Hawaii,Swimming,M,44,N,10,North,fall
+USA,2015.0,South Carolina,Boogie boarding,F,9,N,10,North,fall
+USA,2015.0,Hawaii,Surfing,M,25,N,10,North,fall
+USA,2015.0,Florida,Body boarding,M,22,N,10,North,fall
+USA,2015.0,Texas,Wading,M,13,N,10,North,fall
+USA,2015.0,Florida,Surfing,M,14,N,10,North,fall
+USA,2015.0,Florida,Surfing,M,22,N,9,North,fall
+USA,2015.0,Florida,Surfing,M,14,N,9,North,fall
+USA,2015.0,Hawaii,Spearfishing,M,27,N,9,North,fall
+USA,2015.0,Florida,Wading,M,12,N,9,North,fall
+USA,2015.0,Florida,Photographing fish,M,16,N,9,North,fall
+USA,2015.0,Florida,Swimming,M,0,N,9,North,fall
+USA,2015.0,Florida,Surfing,M,20,N,9,North,fall
+USA,2015.0,California,Stand-Up Paddleboarding,F,50,N,9,North,fall
+USA,2015.0,South Carolina,other,M,0,N,9,North,fall
+USA,2015.0,California,Surfing,F,54,N,8,North,summer
+USA,2015.0,California,Surfing,M,21,N,8,North,summer
+USA,2015.0,South Carolina,Surfing,M,15,N,8,North,summer
+USA,2015.0,Florida,Walking,F,10,N,8,North,summer
+USA,2015.0,Florida,Surfing,M,25,N,7,North,summer
+USA,2015.0,California,Surfing,M,38,N,7,North,summer
+USA,2015.0,North Carolina,other,M,32,N,7,North,summer
+USA,2015.0,North Carolina,Swimming,M,68,N,7,North,summer
+USA,2015.0,South Carolina,Playing in the water,M,12,N,6,North,summer
+USA,2015.0,North Carolina,Swimming,M,18,N,6,North,summer
+USA,2015.0,South Carolina,Standing,M,43,N,6,North,summer
+USA,2015.0,North Carolina,Body surfing?,M,47,N,6,North,summer
+USA,2015.0,North Carolina,Swimming,M,6,N,6,North,summer
+USA,2015.0,South Carolina,Standing,M,9,N,6,North,summer
+USA,2015.0,Florida,Swimming,M,10,N,6,North,summer
+USA,2015.0,North Carolina,Wading,M,16,N,6,North,summer
+USA,2015.0,North Carolina,Wading,F,12,N,6,North,summer
+USA,2015.0,California,other,F,0,N,6,North,summer
+USA,2015.0,North Carolina,Boogie boarding,F,13,N,6,North,summer
+USA,2015.0,Florida,Playing,M,11,N,6,North,summer
+USA,2015.0,Florida,Attempting to rescue a shark,F,17,N,6,North,summer
+USA,2015.0,Florida,Standing,F,14,N,5,North,spring
+USA,2015.0,Florida,Wading,F,19,N,5,North,spring
+USA,2015.0,Florida,Swimming,F,13,N,5,North,spring
+USA,2015.0,Florida,Surfing,M,18,N,5,North,spring
+USA,2015.0,South Carolina,other,M,30,N,5,North,spring
+USA,2015.0,Florida,Swimming,M,0,N,5,North,spring
+USA,2015.0,Hawaii,Snorkeling,F,65,Y,4,North,spring
+USA,2015.0,Florida,Wading,M,63,N,4,North,spring
+USA,2015.0,Florida,Photographing the shark,M,48,N,4,North,spring
+USA,2015.0,Florida,Spearfishing,M,70,N,4,North,spring
+USA,2015.0,Hawaii,Standing / Snorkeling,M,58,N,3,North,spring
+USA,2015.0,Florida,other,M,12,N,1,North,winter
+USA,2014.0,California,Surfing,M,50,N,12,North,winter
+USA,2014.0,Florida,Surfing,M,44,N,11,North,winter
+USA,2014.0,Hawaii,Snorkeling,M,53,N,11,North,winter
+USA,2014.0,Florida,Surfing,M,18,N,11,North,winter
+USA,2014.0,Hawaii,Surfing,F,34,N,10,North,fall
+USA,2014.0,Hawaii,Stand-Up Paddleboarding,F,0,N,10,North,fall
+USA,2014.0,Hawaii,Stand-Up Paddleboarding,M,0,N,10,North,fall
+USA,2014.0,Hawaii,Surfing,M,0,N,10,North,fall
+USA,2014.0,South Carolina,Standing in inner tube,F,7,N,10,North,fall
+USA,2014.0,Florida,Body surfing or Boogie boarding,F,0,N,10,North,fall
+USA,2014.0,Florida,Surfing,M,29,N,10,North,fall
+USA,2014.0,Florida,Fishing,F,40,N,10,North,fall
+USA,2014.0,Florida,Surfing,M,15,N,10,North,fall
+USA,2014.0,California,Surfing,M,28,N,10,North,fall
+USA,2014.0,Florida,Surfing,M,0,N,9,North,fall
+USA,2014.0,Alabama,Fishing ,M,43,N,9,North,fall
+USA,2014.0,Florida,Body surfing,F,13,N,8,North,summer
+USA,2014.0,Florida,Surfing,M,17,N,8,North,summer
+USA,2014.0,North Carolina,Surfing,M,29,N,8,North,summer
+USA,2014.0,South Carolina,Standing,F,0,N,8,North,summer
+USA,2014.0,North Carolina,Kite boarding,UNKNOWN,0,N,8,North,summer
+USA,2014.0,Florida,Standing,M,0,N,8,North,summer
+USA,2014.0,Florida,other,M,26,N,8,North,summer
+USA,2014.0,Florida,Swimming,F,10,N,8,North,summer
+USA,2014.0,Louisiana,Swimming,M,7,N,8,North,summer
+USA,2014.0,South Carolina,Boogie boarding,M,10,N,8,North,summer
+USA,2014.0,Florida,Swimming,F,45,N,8,North,summer
+USA,2014.0,Florida,Surfing,M,50s,N,8,North,summer
+USA,2014.0,Florida,Boogie boarding,M,8,N,8,North,summer
+USA,2014.0,North Carolina,Swimming,M,Teen,N,7,North,summer
+USA,2014.0,Florida,Standing,M,8,N,7,North,summer
+USA,2014.0,Hawaii,Swimming,M,61,N,7,North,summer
+USA,2014.0,Florida,Swimming,M,39,N,7,North,summer
+USA,2014.0,North Carolina,Body surfing,M,0,N,7,North,summer
+USA,2014.0,Florida,Surfing,M,14,N,7,North,summer
+USA,2014.0,California,Surfing,M,0,N,7,North,summer
+USA,2014.0,South Carolina,Body surfing,M,19,N,7,North,summer
+USA,2014.0,Delaware,Standing,M,16,N,6,North,summer
+USA,2014.0,Texas,Kneeling in the water,F,14,N,6,North,summer
+USA,2014.0,Florida,Swimming,F,22,N,6,North,summer
+USA,2014.0,Palmyra Atoll,Tagging sharks,F,37,N,6,North,summer
+USA,2014.0,Florida,Body boarding,F,38,N,5,North,spring
+USA,2014.0,Florida,Wading,F,44,N,5,North,spring
+USA,2014.0,Georgia,Surfing,M,12,N,5,North,spring
+USA,2014.0,South Carolina,Swimming,F,40,N,5,North,spring
+USA,2014.0,Florida,Surfing,M,23,N,5,North,spring
+USA,2014.0,Florida,Swimming,M ,42,N,4,North,spring
+USA,2014.0,Florida,Wading,M,25,N,4,North,spring
+USA,2014.0,Florida,Surfing,M,teen,N,4,North,spring
+USA,2014.0,Florida,Surfing,M,teen,N,4,North,spring
+USA,2014.0,Florida,Kite Surfing,M,0,N,3,North,spring
+USA,2014.0,Florida,Surfing,M,9,N,3,North,spring
+USA,2014.0,Florida,Surfing,M,21,N,3,North,spring
+USA,2014.0,Hawaii,Free diving / Photographing pilot whales,M,0,N,0,North,0
+USA,2013.0,Hawaii,Boogie boarding,M,29,N,12,North,winter
+USA,2013.0,Florida,Surfing,M,30,N,12,North,winter
+USA,2013.0,Hawaii,Kayaking / Fishing,M,57,Y,12,North,winter
+USA,2013.0,Hawaii,Snorkeling,F,58,N,11,North,winter
+USA,2013.0,Oregon,Surfing,M,25,N,11,North,winter
+USA,2013.0,New Jersey,Body boarding,M,16,N,11,North,winter
+USA,2013.0,Florida,Surfing,M,0,N,11,North,winter
+USA,2013.0,Hawaii,Kiteboarding,M,46,N,10,North,fall
+USA,2013.0,Hawaii,Diving ,M,45,N,10,North,fall
+USA,2013.0,Hawaii,Surfing,M,25,N,10,North,fall
+USA,2013.0,Florida,Wading,M,6,N,10,North,fall
+USA,2013.0,California,Surfing,M,45,N,10,North,fall
+USA,2013.0,Florida,Wading,M,12,N,10,North,fall
+USA,2013.0,Florida,Surfing,M,50,N,9,North,fall
+USA,2013.0,Florida,Standing,M,7,N,9,North,fall
+USA,2013.0,Florida,Swimming,M,45,N,9,North,fall
+USA,2013.0,Florida,Surfing,M,0,N,9,North,fall
+USA,2013.0,Florida,Swimming,M,21,N,9,North,fall
+USA,2013.0,Florida,Surfing,F,13,N,9,North,fall
+USA,2013.0,South Carolina,other,F,0,UNKNOWN,9,North,fall
+USA,2013.0,Florida,Standing,M,25,N,9,North,fall
+USA,2013.0,Florida,Swimming,M,17,N,9,North,fall
+USA,2013.0,Florida,Casting a net,M,9,N,9,North,fall
+USA,2013.0,California,Swimming,M,0,N,8,North,summer
+USA,2013.0,Florida,Boogie boarding,F,11,N,8,North,summer
+USA,2013.0,Hawaii,Surfing,M,16,N,8,North,summer
+USA,2013.0,California,Surfing,F,0,N,8,North,summer
+USA,2013.0,Hawaii,Snorkeling,F,20,Y,8,North,summer
+USA,2013.0,Hawaii,Kiteboarding,F,19,N,8,North,summer
+USA,2013.0,South Carolina,Surfing,M,10,N,8,North,summer
+USA,2013.0,Florida,Fishing,M,17,N,8,North,summer
+USA,2013.0,Hawaii,Snorkeling,F,56,N,7,North,summer
+USA,2013.0,South Carolina,Swimming,M,32,N,7,North,summer
+USA,2013.0,Hawaii,Surfing,M,18,N,7,North,summer
+USA,2013.0,Alabama,Walking in surf,F,50,N,7,North,summer
+USA,2013.0,Florida,Swimming ,M,teen,N,7,North,summer
+USA,2013.0,North Carolina,Wading,F,63,N,7,North,summer
+USA,2013.0,Florida,Swimming,M,0,N,6,North,summer
+USA,2013.0,South Carolina,Swimming,M,14,N,6,North,summer
+USA,2013.0,Hawaii,Swimming,M,28,N,6,North,summer
+USA,2013.0,Texas,Swimming,M,15,N,6,North,summer
+USA,2013.0,Florida,Surfing,F,0,N,6,North,summer
+USA,2013.0,South Carolina,Boogie Boarding,F,10,N,6,North,summer
+USA,2013.0,Hawaii,Diving,M,32,N,5,North,spring
+USA,2013.0,Florida,Swimming,M,11,N,5,North,spring
+USA,2013.0,Florida,Surfing,M,16,N,5,North,spring
+USA,2013.0,Florida,Playing in the surf,M,9,N,4,North,spring
+USA,2013.0,Florida,Surfing,M,21,N,4,North,spring
+USA,2013.0,Florida,Swimming,M,50,N,4,North,spring
+USA,2013.0,Hawaii,Surfing,M,58,N,4,North,spring
+USA,2013.0,Hawaii,Surfing,UNKNOWN,0,N,2,North,winter
+USA,2013.0,Hawaii,Surfing,M,0,N,2,North,winter
+USA,2013.0,Florida,Surfing,M,16,N,2,North,winter
+USA,2013.0,Hawaii,Surfing,M,43,N,1,North,winter
+USA,2012.0,Florida,Swimming,M,0,N,12,North,winter
+USA,2012.0,Hawaii,Surfing,M,60,N,12,North,winter
+USA,2012.0,Hawaii,Snorkeling,M,61,N,11,North,winter
+USA,2012.0,Florida,Surfing,M,14,N,11,North,winter
+USA,2012.0,Hawaii,Diving,M,30,N,11,North,winter
+USA,2012.0,Hawaii,Surfing,M,43,N,11,North,winter
+USA,2012.0,California,Surfing,M,25,N,10,North,fall
+USA,2012.0,Hawaii,Swimming,F,51,N,10,North,fall
+USA,2012.0,California,Surfing,M,39,Y,10,North,fall
+USA,2012.0,Florida,other,F,35,N,10,North,fall
+USA,2012.0,Florida,Surfing,M,24,N,10,North,fall
+USA,2012.0,Hawaii,Paddle boarding,M,55,N,10,North,fall
+USA,2012.0,California,Windsurfing,M,42,N,10,North,fall
+USA,2012.0,Florida,Surfing,M,21,N,9,North,fall
+USA,2012.0,Florida,Surfing,M,22,N,9,North,fall
+USA,2012.0,Florida,Surfing,M,52,N,9,North,fall
+USA,2012.0,Florida,Surfing,UNKNOWN,19,N,9,North,fall
+USA,2012.0,Florida,Surfing,M,25,N,9,North,fall
+USA,2012.0,Florida,Swimming,M,0,N,9,North,fall
+USA,2012.0,Florida,Surfing,M,30s,N,9,North,fall
+USA,2012.0,Florida,Surfing,M,37,N,9,North,fall
+USA,2012.0,Florida,Surfing,M,32,N,9,North,fall
+USA,2012.0,Florida,Boogie boarding,F,8,N,9,North,fall
+USA,2012.0,Florida,Swimming or boogie boarding,F,56,N,9,North,fall
+USA,2012.0,Alabama,Wading or swimming,M,31,N,8,North,summer
+USA,2012.0,Florida,Free diving ,M,56,N,8,North,summer
+USA,2012.0,California,Surfing,M,17,N,7,North,summer
+USA,2012.0,Hawaii,Surfing,M,44,N,7,North,summer
+USA,2012.0,Massachusetts,Body surfing,M,50,N,7,North,summer
+USA,2012.0,North Carolina,Swimming,F,43,N,7,North,summer
+USA,2012.0,Florida,Swimming,M,6,N,6,North,summer
+USA,2012.0,Florida,Surfing,M,26,N,6,North,summer
+USA,2012.0,Hawaii,Sitting in the water,F,16,N,6,North,summer
+USA,2012.0,Florida,Swimming,M,12,N,6,North,summer
+USA,2012.0,North Carolina,Wading,F,6,N,6,North,summer
+USA,2012.0,South Carolina,Swimming,F,18,N,6,North,summer
+USA,2012.0,South Carolina,Swimming,M,0,N,6,North,summer
+USA,2012.0,South Carolina,Swimming,M,0,N,6,North,summer
+USA,2012.0,South Carolina,Swimming,M,16,N,6,North,summer
+USA,2012.0,Florida,Surfing,F,12,N,6,North,summer
+USA,2012.0,South Carolina,Boogie Boarding,M,25,N,6,North,summer
+USA,2012.0,North Carolina,Wading,F,33,N,5,North,spring
+USA,2012.0,Florida,Surfing,M,22,N,5,North,spring
+USA,2012.0,Florida,Swimming,F,47,N,5,North,spring
+USA,2012.0,California,Paddle boarding,F,15,N,5,North,spring
+USA,2012.0,Florida,Surfing,M,28,N,4,North,spring
+USA,2012.0,Hawaii,Surfing,M,28,N,4,North,spring
+USA,2012.0,Florida,other,M,0,N,4,North,spring
+USA,2012.0,Florida,Surfing,M,21,N,3,North,spring
+USA,2012.0,Florida,Surfing,M,61,N,3,North,spring
+USA,2012.0,Florida,Surfing,F,15,N,3,North,spring
+USA,2012.0,Florida,Surfing,M,17,N,3,North,spring
+USA,2012.0,Florida,Kite Surfing,M,19,N,3,North,spring
+USA,2012.0,Hawaii,Snorkeling,UNKNOWN,0,N,1,North,winter
+USA,2012.0,Oregon,Surfing,M,53,N,1,North,winter
+USA,2011.0,Florida,other,M,0,N,12,North,winter
+USA,2011.0,Florida,Surfing,M,27,N,12,North,winter
+USA,2011.0,Oregon,Surfing,F,0,N,12,North,winter
+USA,2011.0,California,Surfing,M,27,N,10,North,fall
+USA,2011.0,Oregon,Surfing,M,41,N,10,North,fall
+USA,2011.0,Florida,Surfing,M,0,N,10,North,fall
+USA,2011.0,Oregon,Surfing,M,0,N,10,North,fall
+USA,2011.0,Florida,Wade fishing,M,0,N,10,North,fall
+USA,2011.0,Alabama,other,M,29,N,10,North,fall
+USA,2011.0,Florida,Spearfishing,M,21,N,9,North,fall
+USA,2011.0,South Carolina,Jumping in the waves,M,5,N,9,North,fall
+USA,2011.0,Florida,Surfing,M,25,N,9,North,fall
+USA,2011.0,California,Surfing,M,37,N,9,North,fall
+USA,2011.0,Hawaii,Surfing,UNKNOWN,0,N,9,North,fall
+USA,2011.0,Florida,Surfing,M,19,N,9,North,fall
+USA,2011.0,Florida,Surfing,M,19,N,8,North,summer
+USA,2011.0,Texas,Wade Fishing,F,39,N,8,North,summer
+USA,2011.0,North Carolina,Surfing,M,21,N,8,North,summer
+USA,2011.0,North Carolina,other,M,10,N,8,North,summer
+USA,2011.0,North Carolina,Wading,F,20s,N,8,North,summer
+USA,2011.0,Puerto Rico,Floating ,M,27,N,8,North,summer
+USA,2011.0,North Carolina,Swimming,M,54,N,8,North,summer
+USA,2011.0,New Jersey,Wade Fishing,M,0,N,7,North,summer
+USA,2011.0,North Carolina,Boogie Boarding,F,6,N,7,North,summer
+USA,2011.0,Texas,Surf fishing,M,0,N,7,North,summer
+USA,2011.0,Texas,Swimming,M,12,N,7,North,summer
+USA,2011.0,Texas,Wade Fishing,M,14,N,7,North,summer
+USA,2011.0,North Carolina,Playing in the surf,F,10,N,6,North,summer
+USA,2011.0,California,Surfing,M,0,N,6,North,summer
+USA,2011.0,Florida,Jet skiing,M,20,N,6,North,summer
+USA,2011.0,Florida,Scuba diving,M,28,N,6,North,summer
+USA,2011.0,California,Spearfishing,M,28,N,6,North,summer
+USA,2011.0,Florida,Wading,M,19,N,6,North,summer
+USA,2011.0,Texas,Standing or boogie boardin,F,22,N,5,North,spring
+USA,2011.0,Hawaii,Surfing,F,0,N,5,North,spring
+USA,2011.0,Hawaii,Paddle boarding,F,0,N,5,North,spring
+USA,2011.0,Florida,Body surfing,M,86,N,5,North,spring
+USA,2011.0,Florida,Surfing,M,37,N,5,North,spring
+USA,2011.0,Florida,Spearfishing,M,32,N,4,North,spring
+USA,2011.0,Florida,Surfing ,M,49,N,4,North,spring
+USA,2010.0,Hawaii,Body boarding,M,16,N,12,North,winter
+USA,2010.0,Hawaii,Surfing,M,46,N,12,North,winter
+USA,2010.0,Oregon,Surfing,M,0,N,10,North,fall
+USA,2010.0,Maine,Scuba diving,M,30,N,10,North,fall
+USA,2010.0,California,Body boarding,M,19,Y,10,North,fall
+USA,2010.0,Oregon,Surfing,M,29,N,9,North,fall
+USA,2010.0,Virginia,Surfing,M,18,N,9,North,fall
+USA,2010.0,Florida,Swimming,M,27,N,9,North,fall
+USA,2010.0,Florida,Surfing,M,0,N,9,North,fall
+USA,2010.0,Florida,Surfing,M,24,N,9,North,fall
+USA,2010.0,Florida,Surfing,M,24,N,9,North,fall
+USA,2010.0,Florida,Boogie Boarding,M,10,N,8,North,summer
+USA,2010.0,North Carolina,Surfing,M,25,N,8,North,summer
+USA,2010.0,Florida,Standing,F,37,N,8,North,summer
+USA,2010.0,South Carolina,Standing,M,16,N,7,North,summer
+USA,2010.0,Florida,Surfing,M,20,N,7,North,summer
+USA,2010.0,South Carolina,Swimming,M,10,N,7,North,summer
+USA,2010.0,North Carolina,Swimming,F,13,N,7,North,summer
+USA,2010.0,Florida,Surfing,M,55,N,7,North,summer
+USA,2010.0,Texas,Fishing,M,0,N,7,North,summer
+USA,2010.0,California,Surfing,M,19,N,7,North,summer
+USA,2010.0,California,Stand-Up Paddleboarding,M,48,N,7,North,summer
+USA,2010.0,Texas,Surfing,M,20,N,6,North,summer
+USA,2010.0,South Carolina,Boogie Boarding,F,6,N,6,North,summer
+USA,2010.0,North Carolina,Swimming,F,13,N,6,North,summer
+USA,2010.0,Florida,Boogie Boarding,F,18,N,6,North,summer
+USA,2010.0,Florida,Surfing,M,20,N,6,North,summer
+USA,2010.0,Florida,Wading,F,10,N,5,North,spring
+USA,2010.0,Hawaii,Surfing,M,68,N,4,North,spring
+USA,2010.0,Florida,Kite Boarding,M,38,Y,2,North,winter
+USA,2010.0,Florida,Spearfishing,M,32,N,1,North,winter
+USA,2009.0,Florida,Wading,M,10,N,11,North,winter
+USA,2009.0,California,Fishing,M,31,N,11,North,winter
+USA,2009.0,Florida,Surfing,M,22,N,11,North,winter
+USA,2009.0,Florida,Surfing,F,27,N,11,North,winter
+USA,2009.0,Florida,Surfing,M,18,N,11,North,winter
+USA,2009.0,California,Surfing,M,21,N,11,North,winter
+USA,2009.0,California,Surfing,M,0,N,10,North,fall
+USA,2009.0,Hawaii,Surfing,M,54,N,10,North,fall
+USA,2009.0,California,Surfing,M,0,N,10,North,fall
+USA,2009.0,Florida,Swimming,M,0,N,9,North,fall
+USA,2009.0,California,Surfing,M,0,N,8,North,summer
+USA,2009.0,California,Swimming,F,22,N,8,North,summer
+USA,2009.0,Florida,Swimming,M,26,N,8,North,summer
+USA,2009.0,Hawaii,Surfing,M,0,N,8,North,summer
+USA,2009.0,Louisiana,Wade Fishing,M,56,N,8,North,summer
+USA,2009.0,Texas,Wading,F,14,N,7,North,summer
+USA,2009.0,North Carolina,Swimming,F,26,N,7,North,summer
+USA,2009.0,Florida,Swimming,F,19,N,7,North,summer
+USA,2009.0,California,Paddle-surfing,M,0,N,7,North,summer
+USA,2009.0,Florida,Boogie Boarding,F,12,N,7,North,summer
+USA,2009.0,Florida,Surfing,M,31,N,5,North,spring
+USA,2009.0,Florida,Surfing,M,49,N,5,North,spring
+USA,2009.0,Florida,Surfing,M,55,N,5,North,spring
+USA,2009.0,Florida,other,F,0,N,4,North,spring
+USA,2009.0,California,Surfing,M,0,N,4,North,spring
+USA,2009.0,Florida,Surfing,M,20,N,4,North,spring
+USA,2009.0,Florida,Surfing,M,52,N,4,North,spring
+USA,2009.0,Florida,Surfing,M,31,N,4,North,spring
+USA,2009.0,California,Spearfishing,M,0,N,4,North,spring
+USA,2009.0,Florida,Wading,M,15,N,4,North,spring
+USA,2009.0,Florida,Surfing,F,17,N,3,North,spring
+USA,2009.0,Hawaii,Swimming,M,61,N,3,North,spring
+USA,2008.0,Florida,Fishing,M,11,N,10,North,fall
+USA,2008.0,Florida,Surfing,M,44,N,9,North,fall
+USA,2008.0,Florida,Surfing,M,40,N,9,North,fall
+USA,2008.0,Florida,Swimming,M,32,N,9,North,fall
+USA,2008.0,Hawaii,Surfing,M,40,N,9,North,fall
+USA,2008.0,California,Surfing,M,0,N,9,North,fall
+USA,2008.0,Florida,Surfing,M,43,N,9,North,fall
+USA,2008.0,Florida,Surfing,M,15,N,9,North,fall
+USA,2008.0,Florida,Surfing,M,52,N,9,North,fall
+USA,2008.0,Florida,Surfing,M,0,N,9,North,fall
+USA,2008.0,Florida,Surfing,M,19,N,8,North,summer
+USA,2008.0,Florida,Surfing,M,26,N,8,North,summer
+USA,2008.0,Florida,"Swimming, towing surfboard",M,20,N,8,North,summer
+USA,2008.0,Florida,Swimming,M,47,N,8,North,summer
+USA,2008.0,US Virgin Islands,Treading water,F,38,N,8,North,summer
+USA,2008.0,Florida,Wading,F,13,N,8,North,summer
+USA,2008.0,Hawaii,Diving,M,0,N,8,North,summer
+USA,2008.0,Hawaii,Swimming,M,0,N,7,North,summer
+USA,2008.0,Florida,Surfing,M,17,N,7,North,summer
+USA,2008.0,Hawaii,Snorkeling,F,44,N,7,North,summer
+USA,2008.0,North Carolina,Wading,M,9,N,7,North,summer
+USA,2008.0,North Carolina,Wading,F,8,N,7,North,summer
+USA,2008.0,Florida,Wading,M,16,N,7,North,summer
+USA,2008.0,South Carolina,Surfing,M,24,N,7,North,summer
+USA,2008.0,North Carolina,Swimming,F,14,N,7,North,summer
+USA,2008.0,South Carolina,other,F,17,N,7,North,summer
+USA,2008.0,Florida,Surfing,M,29,N,6,North,summer
+USA,2008.0,South Carolina,Swimming,M,37,N,6,North,summer
+USA,2008.0,Florida,Wading,F,35,N,6,North,summer
+USA,2008.0,Florida,Body surfing,M,40,N,6,North,summer
+USA,2008.0,South Carolina,Body surfing,F,15,N,6,North,summer
+USA,2008.0,North Carolina,Surfing,M,9,N,5,North,spring
+USA,2008.0,Florida,Wading,M,6,N,5,North,spring
+USA,2008.0,Florida,Surfing,M,18,N,4,North,spring
+USA,2008.0,Florida,Surfing,M,24,N,4,North,spring
+USA,2008.0,California,Swimming,M,66,Y,4,North,spring
+USA,2008.0,Florida,Surfing,M,14,N,4,North,spring
+USA,2008.0,Florida,Surfing,M,30,N,4,North,spring
+USA,2008.0,Florida,Wading,M,15,N,3,North,spring
+USA,2008.0,Florida,Surfing,UNKNOWN,0,N,4,North,spring
+USA,2008.0,Florida,Walking out of the water after surfing,M,18,N,4,North,spring
+USA,2008.0,Florida,Surfing,M,52,N,3,North,spring
+USA,2008.0,Florida,Boogie Boarding,M,0,N,3,North,spring
+USA,2008.0,Florida,Walking out of the water after surfing,M,13,N,3,North,spring
+USA,2008.0,Florida,Wading,M,14,N,3,North,spring
+USA,2008.0,Florida,Jet skiing,M,8,N,3,North,spring
+USA,2008.0,California,Surfing,M,27,N,3,North,spring
+USA,2008.0,Florida,Surfing,M,25,N,2,North,winter
+USA,2008.0,Florida,Surf-skiing,M,0,N,2,North,winter
+USA,2008.0,Florida,Surfing,M,20,N,1,North,winter
+USA,2007.0,Hawaii,Surfing,M,52,N,12,North,winter
+USA,2007.0,Florida,Surfing,M,21,N,11,North,winter
+USA,2007.0,Florida,Surfing,M,42,N,11,North,winter
+USA,2007.0,Hawaii,Floating,M,32,N,10,North,fall
+USA,2007.0,California,Surfing,M,22,N,10,North,fall
+USA,2007.0,Florida,Surfing,M,16,N,10,North,fall
+USA,2007.0,California,Surfing,M,0,N,9,North,fall
+USA,2007.0,California,Surfing,F,0,N,9,North,fall
+USA,2007.0,Florida,Surfing,F,0,N,9,North,fall
+USA,2007.0,Florida,Surfing,M,23,N,9,North,fall
+USA,2007.0,Florida,Wading?,M,56,N,9,North,fall
+USA,2007.0,Florida,Surfing,F,Teen,N,9,North,fall
+USA,2007.0,Florida,Snorkeling,M,14,N,9,North,fall
+USA,2007.0,Florida,Wading,F,58,N,9,North,fall
+USA,2007.0,Florida,Wading,F,36,N,9,North,fall
+USA,2007.0,South Carolina,Standing,M,15,N,9,North,fall
+USA,2007.0,Florida,Jumping,F,12,N,9,North,fall
+USA,2007.0,Florida,Swimming,M,58,N,9,North,fall
+USA,2007.0,Hawaii,Body boarding,M,15,N,8,North,summer
+USA,2007.0,California,Surfing,M,24,N,8,North,summer
+USA,2007.0,Florida,Surfing,M,54,N,8,North,summer
+USA,2007.0,Florida,Surfing,M,27,N,8,North,summer
+USA,2007.0,Florida,Swimming,M,52,N,8,North,summer
+USA,2007.0,Florida,Surfing,M,16,N,8,North,summer
+USA,2007.0,South Carolina,Playing,M,7,N,8,North,summer
+USA,2007.0,Florida,Floating near boat & observing bioluminesce,M,20,N,8,North,summer
+USA,2007.0,Florida,Swimming,F,15,N,8,North,summer
+USA,2007.0,Florida,Walking out of the water after surfing,M,19,N,8,North,summer
+USA,2007.0,South Carolina,Swimming,M,30,N,8,North,summer
+USA,2007.0,South Carolina,Boogie Boarding,M,9,N,8,North,summer
+USA,2007.0,Florida,Jumped into the water,F,19,N,8,North,summer
+USA,2007.0,Florida,Surfing,M,51,N,7,North,summer
+USA,2007.0,California,Surfing,M,20,N,7,North,summer
+USA,2007.0,California,Surf paddling,M,0,N,7,North,summer
+USA,2007.0,Hawaii,Snorkeling,M,36,N,7,North,summer
+USA,2007.0,North Carolina,Swimming,M,14,N,7,North,summer
+USA,2007.0,North Carolina,Wading,F,30,N,7,North,summer
+USA,2007.0,Florida,Surfing,M,18,N,7,North,summer
+USA,2007.0,California,Swimming,F,0,N,6,North,summer
+USA,2007.0,Florida,Surfing,M,20,N,6,North,summer
+USA,2007.0,Hawaii,Surfing,M,0,N,6,North,summer
+USA,2007.0,Florida,Swimming,F,0,N,6,North,summer
+USA,2007.0,South Carolina,Wading,F,0,N,5,North,spring
+USA,2007.0,Florida,Surfing,F,21,N,5,North,spring
+USA,2007.0,Hawaii,Snorkeling,F,63,N,5,North,spring
+USA,2007.0,Florida,Swimming,M,68,N,5,North,spring
+USA,2007.0,Florida,Body boarding,M,12,N,4,North,spring
+USA,2007.0,Florida,Surfing,M,24,N,4,North,spring
+USA,2007.0,Florida,Playing on a sandbar,M,7,N,4,North,spring
+USA,2007.0,Florida,Surfing,M,27,N,3,North,spring
+USA,2007.0,Florida,other,M,9,N,3,North,spring
+USA,2007.0,Florida,Surfing,M,11,N,3,North,spring
+USA,2007.0,Florida,Surfing,M,29,N,3,North,spring
+USA,2007.0,Hawaii,Surfing,M,24,N,1,North,winter
+USA,2006.0,California,Surfing,M,43,N,12,North,winter
+USA,2006.0,Hawaii,Swimming,M,29,N,11,North,winter
+USA,2006.0,Oregon,Surfing,M,22,N,10,North,fall
+USA,2006.0,Florida,Fishing,M,15,N,10,North,fall
+USA,2006.0,Florida,Surfing,M,20,N,10,North,fall
+USA,2006.0,Texas,Surfing,M,0,N,10,North,fall
+USA,2006.0,Florida,Playing soccer in the water,M,18,N,10,North,fall
+USA,2006.0,Florida,Surfing,M,19,N,9,North,fall
+USA,2006.0,North Carolina,Surfing,M,16,N,9,North,fall
+USA,2006.0,Florida,Swimming,M,55,N,9,North,fall
+USA,2006.0,Florida,Surfing,M,52,N,9,North,fall
+USA,2006.0,Florida,Standing,M,33,N,9,North,fall
+USA,2006.0,Florida,Swimming,M,12 or 13,N,9,North,fall
+USA,2006.0,Oregon,Surfing,M,23,N,8,North,summer
+USA,2006.0,North Carolina,Wading,F,59,N,8,North,summer
+USA,2006.0,Oregon,Surfing,M,41,N,7,North,summer
+USA,2006.0,Florida,Surfing,M,15,N,7,North,summer
+USA,2006.0,Florida,Surfing,M,14,N,7,North,summer
+USA,2006.0,Texas,Surf fishing,M,0,N,7,North,summer
+USA,2006.0,South Carolina,Standing,M,49,N,7,North,summer
+USA,2006.0,South Carolina,Swimming,F,21,N,7,North,summer
+USA,2006.0,Florida,Wading,M,40,N,7,North,summer
+USA,2006.0,Florida,Walking,M,11,N,7,North,summer
+USA,2006.0,South Carolina,Body boarding,F,14,N,7,North,summer
+USA,2006.0,Florida,Swimming,M,13,N,7,North,summer
+USA,2006.0,Florida,Spearfishing,F,28,N,6,North,summer
+USA,2006.0,Florida,Spearfishing,M,35,N,6,North,summer
+USA,2006.0,Florida,Body boarding,F,9,N,6,North,summer
+USA,2006.0,Florida,Surfing,F,22,N,6,North,summer
+USA,2006.0,California,Scuba diving,M,43,N,6,North,summer
+USA,2006.0,Florida,Surfing,M,24,N,6,North,summer
+USA,2006.0,South Carolina,Playing,F,7,N,6,North,summer
+USA,2006.0,Hawaii,Spearfishing,M,26,N,5,North,spring
+USA,2006.0,Hawaii,Surfing,M,31,N,5,North,spring
+USA,2006.0,Guam,Scuba diving,F,30s,N,5,North,spring
+USA,2006.0,Florida,other,M,0,N,5,North,spring
+USA,2006.0,Florida,Swimming,F,20s,N,5,North,spring
+USA,2006.0,Florida,Surfing,M,54,N,4,North,spring
+USA,2006.0,Florida,Standing,F,13,N,4,North,spring
+USA,2006.0,Florida,Wading,M,11,N,4,North,spring
+Sierra Leone,2006.0,Western Area,Fishing,M,0,Y,3,North,spring
+USA,2006.0,Hawaii,Surfing,F,28,N,3,North,spring
+USA,2006.0,Hawaii,Standing,F,15,N,2,North,winter
+USA,2006.0,California,Night Surfing,M,0,N,1,North,winter
+USA,2006.0,Florida,Surfing,M,21,N,1,North,winter
+USA,2005.0,Oregon,Surfing,M,30,N,12,North,winter
+USA,2005.0,Hawaii,Swimming,M,29,N,12,North,winter
+USA,2005.0,Florida,Surfing,M,teen,N,11,North,winter
+USA,2005.0,Florida,Surfing,M,23,N,11,North,winter
+USA,2005.0,Florida,Surfing,M,30s,N,11,North,winter
+USA,2005.0,Florida,Surfing,M,17,N,11,North,winter
+USA,2005.0,Florida,Surfing,M,18,N,11,North,winter
+USA,2005.0,California,Surfing,M,25,N,11,North,winter
+USA,2005.0,California,Surfing,M,26,N,11,North,winter
+USA,2005.0,Florida,Wading,M,15,N,10,North,fall
+ST. MAARTIN,2005.0,Simpson Bay,Standing,M,55,N,10,North,fall
+USA,2005.0,California,Surfing,M,36,N,10,North,fall
+USA,2005.0,California,Surfing,F,20,N,10,North,fall
+USA,2005.0,Hawaii,Surfing,M,22,N,10,North,fall
+USA,2005.0,Florida,Treading water/ Surfing,M,48,N,10,North,fall
+USA,2005.0,South Carolina,Body surfing,F,68,N,9,North,fall
+USA,2005.0,South Carolina,Surfing,M,18,Y,9,North,fall
+USA,2005.0,North Carolina,Wading,F,18,N,9,North,fall
+USA,2005.0,Florida,Standing / Surfing,M,62,N,9,North,fall
+USA,2005.0,California,Surfing,M,37,N,8,North,summer
+USA,2005.0,South Carolina,Swimming,M,8,N,8,North,summer
+USA,2005.0,Texas,Walking,M,12,N,8,North,summer
+USA,2005.0,North Carolina,Surfing,M,16,N,8,North,summer
+USA,2005.0,South Carolina,Swimming,M,14,N,8,North,summer
+USA,2005.0,Florida,Wading,F,13,N,7,North,summer
+USA,2005.0,Florida,Surfing,M,61,N,7,North,summer
+USA,2005.0,North Carolina,Swimming,M,22,N,7,North,summer
+USA,2005.0,Texas,Holding onto an inflatable boat,F,14,N,7,North,summer
+USA,2005.0,Florida,Standing,M,19,N,7,North,summer
+USA,2005.0,Florida,Fishing,M,16,N,6,North,summer
+USA,2005.0,Florida,Swimming with boogie board,F,14,Y,6,North,summer
+USA,2005.0,Florida,Swimming,M,20,N,6,North,summer
+USA,2005.0,South Carolina,Boogie boarding,F,11,N,6,North,summer
+USA,2005.0,Texas,Wading,M,6,N,6,North,summer
+USA,2005.0,Florida,Swimming,M,33,N,5,North,spring
+USA,2005.0,Florida,Crouching in 2' of water,F,0,N,5,North,spring
+USA,2005.0,Hawaii,Surfing,M,47,N,5,North,spring
+USA,2005.0,Florida,Wading,F,70,N,4,North,spring
+USA,2005.0,Texas,Surfing,M,37,N,4,North,spring
+USA,2005.0,Florida,other,F,0,N,4,North,spring
+USA,2005.0,Hawaii,Surfing,M,0,N,2,North,winter
+USA,2005.0,Florida,Spearfishing,M,0,N,2,North,winter
+USA,2004.0,California,Surfing,UNKNOWN,38,N,11,North,winter
+USA,2004.0,California,Surfing,M,0,N,10,North,fall
+USA,2004.0,Hawaii,Spearfishing,M,34,N,10,North,fall
+USA,2004.0,California,Surfing,M,16,N,10,North,fall
+USA,2004.0,California,Surfing,M,40,N,10,North,fall
+USA,2004.0,Oregon,Surfing,M,26,N,9,North,fall
+USA,2004.0,South Carolina ,Jumping,F,17,N,9,North,fall
+USA,2004.0,Florida,Walking,F,38,N,8,North,summer
+USA,2004.0,California,Surfing,M,0,N,8,North,summer
+USA,2004.0,California,Diving,M,50,Y,8,North,summer
+USA,2004.0,Florida,Swimming,M,47,N,8,North,summer
+USA,2004.0,Florida,Surfing,F,20,N,7,North,summer
+USA,2004.0,North Carolina,Surfing,F,28,N,7,North,summer
+USA,2004.0,North Carolina,Swimming,F,13,N,7,North,summer
+USA,2004.0,Texas,Swimming,F,19,N,7,North,summer
+USA,2004.0,Texas,Wading / fishing & carrying a bag of fish,M,11,N,7,North,summer
+USA,2004.0,Alabama,Wading,M,7,N,7,North,summer
+USA,2004.0,California,Surfing,M,45,N,6,North,summer
+USA,2004.0,Florida,In water with diving seabirds,F,0,N,6,North,summer
+USA,2004.0,Florida,Swimming,M,8,N,6,North,summer
+USA,2004.0,Texas,Wading,M,16,N,5,North,spring
+USA,2004.0,California,Surfing,M,44,N,5,North,spring
+USA,2004.0,Florida,Boogie-boarding / swimming,M,9,N,5,North,spring
+USA,2004.0,Florida,other,F,9,N,5,North,spring
+USA,2004.0,Texas,Tandem surfing,M,28,N,5,North,spring
+USA,2004.0,Hawaii,Surfing,M,57,Y,4,North,spring
+USA,2004.0,Florida,other,M,26,N,3,North,spring
+USA,2004.0,Florida,Surfing,M,20,N,3,North,spring
+USA,2004.0,Florida,Surfing,M,0,N,3,North,spring
+USA,2004.0,Florida,Swimming,M,61,N,3,North,spring
+USA,2004.0,Hawaii,Snorkeling,F,0,N,3,North,spring
+USA,2004.0,Hawaii,Surfing,M,51,N,3,North,spring
+USA,2003.0,Florida,Swimming,M,13,N,12,North,winter
+USA,2003.0,Florida,Surfing,F,35,N,11,North,winter
+USA,2003.0,Florida,Surfing,M,24,N,11,North,winter
+USA,2003.0,Florida,Surfing,M,18,N,10,North,fall
+USA,2003.0,Hawaii,Surfing,F,13,N,10,North,fall
+USA,2003.0,Florida,Surfing,M,46,N,10,North,fall
+USA,2003.0,Florida,Surfing,M,19,N,10,North,fall
+USA,2003.0,Florida,Surfing,F,0,N,10,North,fall
+USA,2003.0,Florida,Surfing,M,18,N,10,North,fall
+USA,2003.0,Florida,Sitting on surfboard,M,50,N,10,North,fall
+USA,2003.0,Hawaii,Wading near a fishing net,F,41,N,10,North,fall
+USA,2003.0,Florida,Surfing,M,16,N,9,North,fall
+USA,2003.0,Florida,Surfing,M,21,N,9,North,fall
+USA,2003.0,Florida,Surfing,M,19,N,9,North,fall
+USA,2003.0,Florida,Surfing,M,17,N,9,North,fall
+USA,2003.0,Florida,Surfing,M,30,N,9,North,fall
+USA,2003.0,Florida,Body boarding,M,18,N,9,North,fall
+USA,2003.0,South Carolina,"Standing, stepped on shark",M,15,N,9,North,fall
+USA,2003.0,Florida,Wade-fishing,M,0,N,9,North,fall
+USA,2003.0,California,"Swimming, wearing black wetsuit & swim fins",F,50,Y,8,North,summer
+USA,2003.0,Florida,Surfing,M,18,N,7,North,summer
+USA,2003.0,Florida,Wading,F,15,N,7,North,summer
+USA,2003.0,Florida,Surfing,M,21,N,7,North,summer
+USA,2003.0,Florida,Spearfishing,M,0,N,7,North,summer
+USA,2003.0,Florida,Surfing,M,17,N,6,North,summer
+USA,2003.0,Florida,Surfing,M,15,N,6,North,summer
+USA,2003.0,Florida,Standing,F,12,N,6,North,summer
+USA,2003.0,Hawaii,Swimming with pod of dolphins,M,60,N,6,North,summer
+USA,2003.0,Johnston Atoll,Swimming,M,51,N,6,North,summer
+USA,2003.0,North Carolina,Surfing ,M,33,N,6,North,summer
+USA,2003.0,Florida,Surfing,UNKNOWN,15,N,6,North,summer
+USA,2003.0,Florida,Surfing,M,18,N,5,North,spring
+USA,2003.0,Florida,Wading,M,22,N,5,North,spring
+USA,2003.0,Hawaii,Swimming,M,20,N,5,North,spring
+USA,2003.0,Florida,Walking,F,9,N,5,North,spring
+USA,2003.0,Florida,Surfing,M,36,N,4,North,spring
+USA,2003.0,Florida,Surfing,M,17,N,4,North,spring
+USA,2003.0,Florida,Surfing,M,30,N,4,North,spring
+USA,2003.0,Florida,Surfing,M,23,N,4,North,spring
+USA,2003.0,Florida,Surfing,M,18,N,4,North,spring
+USA,2003.0,Florida,Jumping,M,11,N,4,North,spring
+USA,2003.0,Florida,Surfing,M,12,N,4,North,spring
+USA,2003.0,Florida,Swimming (using a float),M,20,N,4,North,spring
+USA,2003.0,Florida,Surfing,M,0,N,4,North,spring
+USA,2003.0,Florida,Surfing,M,50,N,4,North,spring
+USA,2003.0,Florida,Swimming,M,54,N,2,North,winter
+USA,2002.0,California,Body boarding,M,48,N,11,North,winter
+USA,2002.0,Hawaii,Swimming,F,34,N,11,North,winter
+USA,2002.0,Florida,Surfing,M,21,N,11,North,winter
+USA,2002.0,Florida,Boogie boarding,M,16,N,11,North,winter
+USA,2002.0,Hawaii,Swimming,F,60,N,10,North,fall
+USA,2002.0,Florida,Surfing,M,21,N,10,North,fall
+USA,2002.0,Florida,Surfing,M,14,N,10,North,fall
+USA,2002.0,Florida,Surfing,M,35,N,10,North,fall
+USA,2002.0,Florida,Surfing,M,18,N,10,North,fall
+USA,2002.0,Florida,Surfing,M,47,N,9,North,fall
+USA,2002.0,Florida,Surfing,M,32,N,9,North,fall
+USA,2002.0,Hawaii,Fishing from Surfboard,M,55,N,9,North,fall
+USA,2002.0,Oregon,Boogie boarding or Surfing,M,24,N,9,North,fall
+USA,2002.0,California,Surfing,M,35,N,9,North,fall
+USA,2002.0,Hawaii,Body boarding,UNKNOWN,0,N,9,North,fall
+USA,2002.0,Florida,Boogie boarding,M,20,N,9,North,fall
+USA,2002.0,Hawaii,Surfing,M,16,N,8,North,summer
+USA,2002.0,Alabama,Swimming,F,29,N,8,North,summer
+USA,2002.0,Florida,Surfing,M,27,N,8,North,summer
+USA,2002.0,Florida,Surfing,M,15,N,8,North,summer
+USA,2002.0,Florida,Standing,M,15,N,8,North,summer
+USA,2002.0,North Carolina,Standing,M,14,N,8,North,summer
+USA,2002.0,South Carolina,Surfing,M,13,N,7,North,summer
+USA,2002.0,North Carolina,Swimming,F,15,N,7,North,summer
+USA,2002.0,North Carolina,Standing,F,9,N,7,North,summer
+USA,2002.0,Florida,Swimming,F,11,N,6,North,summer
+USA,2002.0,Hawaii,Sitting on surfboard,UNKNOWN,0,N,6,North,summer
+USA,2002.0,Florida,Surfing,M,28,N,6,North,summer
+USA,2002.0,Florida,Surfing,M,50,N,6,North,summer
+USA,2002.0,Florida,Swimming,M,10,N,6,North,summer
+USA,2002.0,California,Surfing,M,24,N,5,North,spring
+USA,2002.0,Florida,Floating on a raft,M,16,N,5,North,spring
+USA,2002.0,Florida,Playing in the surf with his 2 dogs,M,35,N,5,North,spring
+USA,2002.0,Florida,Fishing,M,31,N,5,North,spring
+USA,2002.0,Florida,"Surfing, but standing in water alongside board",M,34,N,4,North,spring
+USA,2002.0,Florida,Surfing,M,28,N,4,North,spring
+USA,2002.0,Florida,Wading,M,41,N,4,North,spring
+USA,2002.0,Florida,Swimming / Wading,M,29,N,4,North,spring
+USA,2002.0,Hawaii,Body-boarding,M,17,N,3,North,spring
+USA,2002.0,Florida,Wading,F,11,N,3,North,spring
+USA,2002.0,Florida,Swimming /  boogie boarding,M,20,N,3,North,spring
+USA,2002.0,Florida,Snorkeling,M,39,N,3,North,spring
+USA,2002.0,Florida,Surfing,M,31,N,3,North,spring
+USA,2002.0,Hawaii,Snorkeling,M,35,N,1,North,winter
+USA,2001.0,Hawaii,Surfing,UNKNOWN,0,N,11,North,winter
+USA,2001.0,Florida,Surfing,M,14,N,9,North,fall
+USA,2001.0,Florida,Boogie boarding,M,65,N,9,North,fall
+USA,2001.0,North Carolina,Surfing,M,16,N,9,North,fall
+USA,2001.0,Florida,Walking in shallows,M,13,N,9,North,fall
+USA,2001.0,North Carolina,Swimming ,M,28,Y,9,North,fall
+USA,2001.0,North Carolina,Swimming,F,23,N,9,North,fall
+USA,2001.0,Florida,Wading,M,20,N,9,North,fall
+USA,2001.0,Virginia,Swimming ,M,10,Y,9,North,fall
+USA,2001.0,Florida,Standing,F,29,N,8,North,summer
+USA,2001.0,Florida,Wading,M,69,N,8,North,summer
+USA,2001.0,Florida,Boogie Boarding,M,18,N,8,North,summer
+USA,2001.0,Florida,Boogie Boarding,M,18,N,8,North,summer
+USA,2001.0,Florida,Surfing,M,17,N,8,North,summer
+USA,2001.0,Florida,Surfing,M,27,N,8,North,summer
+USA,2001.0,Florida,Surfing,M,32,N,8,North,summer
+USA,2001.0,Florida,Surfing,F,17,N,8,North,summer
+USA,2001.0,Florida,Surfing,F,17,N,8,North,summer
+USA,2001.0,Florida,Surfing,M,20,N,8,North,summer
+USA,2001.0,Florida,Surfing,M,19,N,8,North,summer
+USA,2001.0,Florida,Surfing,M,19,N,8,North,summer
+USA,2001.0,South Carolina,other,F,0,N,8,North,summer
+USA,2001.0,South Carolina,other,F,0,N,7,North,summer
+USA,2001.0,Florida,other,M,0,N,7,North,summer
+USA,2001.0,Florida,other,F,0,N,7,North,summer
+USA,2001.0,Florida,Surfing,M,48,N,7,North,summer
+USA,2001.0,Florida,Boogie boarding,M,18,N,7,North,summer
+USA,2001.0,Florida,Swimming,M,8,N,7,North,summer
+USA,2001.0,South Carolina,other,UNKNOWN,0,N,7,North,summer
+USA,2001.0,Georgia,Floating face-down in knee-deep water,M,35,N,7,North,summer
+USA,2001.0,Texas,Swimming,M,14,N,6,North,summer
+USA,2001.0,South Carolina,Wading,F,29,N,6,North,summer
+USA,2001.0,Texas,other,M,16,N,5,North,spring
+USA,2001.0,South Carolina,Swimming,M,11,N,5,North,spring
+USA,2001.0,South Carolina,Swimming,M,0,N,5,North,spring
+USA,2001.0,Florida,Surfing,M,45,N,5,North,spring
+USA,2001.0,Florida,Boogie boarding,M,14,N,4,North,spring
+USA,2001.0,Florida,Surfing,M,16,N,4,North,spring
+USA,2001.0,Florida,Surfing,M,12,N,4,North,spring
+USA,2001.0,Florida,other,M,35,N,4,North,spring
+USA,2001.0,Florida,Surfing,M,38,N,4,North,spring
+USA,2001.0,Florida,Surfing,M,21,N,4,North,spring
+USA,2001.0,Florida,Body boarding,M,12,N,4,North,spring
+USA,2001.0,Florida,Surfing,M,22,N,4,North,spring
+USA,2001.0,Florida,Surfing,M,19,N,4,North,spring
+USA,2001.0,Florida,Surfing,M,22,N,4,North,spring
+USA,2001.0,Hawaii,Surfing,M,0,N,4,North,spring
+USA,2001.0,Florida,Surfing,UNKNOWN,16,N,4,North,spring
+USA,2001.0,Florida,Standing alongside surfboard,M,26,N,4,North,spring
+USA,2001.0,Hawaii,Body-boarding,M,0,N,3,North,spring
+USA,2001.0,Florida,Surfing,M,0,N,3,North,spring
+USA,2001.0,California,Surfing,M,0,N,1,North,winter
+USA,2000.0,Florida,Swimming,M,73,N,11,North,winter
+USA,2000.0,California,Surfing,M,27,N,11,North,winter
+USA,2000.0,Florida,Surfing,M,23,N,10,North,fall
+USA,2000.0,Hawaii,Swimming / snorkeling,F,56,N,10,North,fall
+USA,2000.0,Florida,Swimming,M,69,N,10,North,fall
+USA,2000.0,Florida,Surfing,M,17,N,10,North,fall
+USA,2000.0,Florida,Surfing,M,23,N,10,North,fall
+USA,2000.0,Florida,Body surfing,M,11,N,10,North,fall
+USA,2000.0,North Carolina,Surfing,M,24,N,10,North,fall
+USA,2000.0,California,Sitting on surfboard,M,0,N,9,North,fall
+USA,2000.0,South Carolina,other,UNKNOWN,0,N,9,North,fall
+USA,2000.0,Florida,Standing / surfing,M,49,N,9,North,fall
+USA,2000.0,Florida,Surfing,F,26,N,9,North,fall
+USA,2000.0,Florida,Swimming / Body surfing,M,25,N,9,North,fall
+USA,2000.0,Florida,Swimming,M,8,N,9,North,fall
+USA,2000.0,Florida,Wading,M,40,N,9,North,fall
+USA,2000.0,Florida,Swimming,M,47,N,8,North,summer
+USA,2000.0,Florida,Jumped into the water,M,69,Y,8,North,summer
+USA,2000.0,North Carolina,Swimming out to porpoises ,M,0,N,8,North,summer
+USA,2000.0,Hawaii,"Windsurfing, but sitting on his board",M,53,N,8,North,summer
+USA,2000.0,Florida,Surfing / Wading,M,27,N,8,North,summer
+USA,2000.0,Florida,Standing,F,44,N,8,North,summer
+USA,2000.0,Florida,other,M,5,N,7,North,summer
+USA,2000.0,Florida,Snorkeling,F,45,N,7,North,summer
+USA,2000.0,North Carolina,Surfing,M,16,N,7,North,summer
+USA,2000.0,North Carolina,Surfing,M,14,N,7,North,summer
+USA,2000.0,Florida,Wading,M,13,N,7,North,summer
+USA,2000.0,Florida,Swimming ,M,41,N,7,North,summer
+USA,2000.0,Texas,Jumping,M,5,N,7,North,summer
+USA,2000.0,North Carolina,Playing,F,12,N,7,North,summer
+USA,2000.0,Florida,Wading,F,20,N,7,North,summer
+USA,2000.0,Florida,"Spearfishing, holding mesh bag with speared fish",F,55,N,7,North,summer
+USA,2000.0,Florida,Wading,F,13,N,7,North,summer
+USA,2000.0,Florida,Standing,F,19,N,7,North,summer
+USA,2000.0,Florida,Standing,M,52,N,6,North,summer
+USA,2000.0,Texas,Surfing,M,17,N,6,North,summer
+USA,2000.0,Alabama,Swimming,M,55,N,6,North,summer
+USA,2000.0,Alabama,Swimming ,M,44,N,6,North,summer
+USA,2000.0,Florida,Snorkeling,M,13,N,6,North,summer
+USA,2000.0,Florida,Walking,M,34,N,4,North,spring
+USA,2000.0,Florida,Boogie boarding / wading,M,0,N,4,North,spring
+USA,2000.0,Florida,Fishing,M,0,N,3,North,spring
+USA,2000.0,Florida,Boogie boarding,F,14,N,3,North,spring
+USA,2000.0,Florida,Surfing,M,37,N,3,North,spring
+USA,2000.0,Louisiana,Spearfishing,M,39,N,3,North,spring
+USA,2000.0,Florida,other,M,27,N,2,North,winter

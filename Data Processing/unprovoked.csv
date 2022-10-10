@@ -1,0 +1,1618 @@
+Country,Year,Area,Activity,Sex,Age,Fatal_Y_N,Month
+USA,2018,Georgia,Standing,F,11,N,6
+AUSTRALIA,2018,New South Wales,Surfing,M,0,N,6
+AUSTRALIA,2018,New South Wales,Kite surfing,M,0,N,6
+BRAZIL,2018,Pernambuco,Swimming,M,18,Y,6
+USA,2018,Florida,Fishing,M,52,N,5
+USA,2018,Florida,Walking,M,15,N,5
+USA,2018,Florida,Standing,M,12,N,5
+USA,2018,South Carolina,Boogie boarding,M,10,N,5
+USA,2018,South Carolina,Swimming,M,10,N,5
+SOUTH AFRICA,2018,Eastern Cape Province,Surfing,M,0,N,5
+THAILAND,2018,Hua Hin,Swimming,M,0,N,4
+COSTA RICA,2018,Cocos Island,Scuba diving,M,30,N,4
+AUSTRALIA,2018,Western Australia,Surfing,M,0,N,4
+AUSTRALIA,2018,Western Australia,Surfing,M,60,N,4
+AUSTRALIA,2018,Western Australia,Surfing,M,0,N,4
+MALDIVES,2018,Alifu Alifu Atoll,Fishing,M,32,N,4
+SOUTH AFRICA,2018,Western Cape Province,Paddle-skiing,M,33,N,4
+USA,2018,Hawaii,Body boarding,M,29,N,4
+THAILAND,2018,Hua Hin,Swimming,M,54,N,4
+BRAZIL,2018,Pernambuco,Swimming,M,34,N,4
+AUSTRALIA,2018,Western Australia,Surfing,M,41,N,4
+AUSTRALIA,2018,Western Australia,Surfing,M,37,N,4
+BAHAMAS,2018,New Providence,Surfing,M,0,N,4
+NEW CALEDONIA,2018,other,Windsurfing,UNKNOWN,0,N,4
+BAHAMAS,2018,other,Swimming,M,12,N,4
+SOUTH AFRICA,2018,Eastern Cape Province,Surfing,M,19,N,4
+USA,2018,Hawaii,Stand-Up Paddleboarding,M,25,N,3
+AUSTRALIA,2018,Western Australia,Wading,M,10,N,3
+AUSTRALIA,2018,Victoria,Swimming,M,69,N,3
+AUSTRALIA,2018,Victoria,Surfing,M,18,N,3
+SOUTH AFRICA,2018,KwaZulu-Natal,Scuba Diving,M,38,N,2
+AUSTRALIA,2018,New South Wales,Swimming,F,55,N,2
+AUSTRALIA,2018,New South Wales,Walking,M,35,N,2
+ECUADOR,2018,Galapagos Islands,Snorkeling,M,45,N,2
+AUSTRALIA,2018,Western Australia,other,M,18,N,1
+NEW CALEDONIA,2018,other,Spearfishing,M,40s,N,1
+AUSTRALIA,2018,Queensland,Diving,M,0,N,1
+AUSTRALIA,2018,New South Wales,Free diving,M,28,N,1
+BRAZIL,2018,Fernando de Noronha,Surfing,M,20,N,1
+AUSTRALIA,2018,Western Australia,Surfing,M,0,N,1
+USA,2017,Hawaii,Surfing,F,54,N,12
+USA,2017,California,Surfing,F,35,N,12
+BAHAMAS,2017,other,Snorkeling,F,25,N,12
+COSTA RICA,2017,Cocos Island,Scuba Diving,M,26,N,11
+COSTA RICA,2017,Cocos Island,Scuba diving,F,49,Y,11
+USA,2017,California,Spearfishing,M,25,N,11
+USA,2017,Florida,Surfing,F,14,N,11
+other,2017,other,Surfing,M,24,N,11
+AUSTRALIA,2017,New South Wales,Surfing,M,25,N,11
+CUBA,2017,Holquin Province,Night bathing,M,22,Y,11
+AUSTRALIA,2017,Queensland,Snorkeling,M,7,N,10
+AUSTRALIA,2017,New South Wales,Surfing,M,31,N,10
+USA,2017,Hawaii,Stand-Up Paddleboarding,M,0,N,10
+MAURITIUS,2017,Pamplemousses ,Swimming,M,0,N,10
+USA,2017,Florida,Surfing ,M,17,N,10
+USA,2017,Florida,Swimming,F,60,N,10
+AUSTRALIA,2017,South Australia,Kayaking / Fishing,F,15,N,10
+NEW ZEALAND,2017,North Island,Kayaking,M,0,N,10
+USA,2017,Florida,Swimming,M,0,N,10
+USA,2017,Hawaii,Surfing,M,54,N,10
+USA,2017,Hawaii,Snorkeling,F,40,N,10
+USA,2017,Florida,Surfing,M,0,N,9
+AUSTRALIA,2017,Western Australia,Surfing,M,0,N,9
+USA,2017,Florida,Surfing,M,0,N,9
+USA,2017,Florida,Surfing,M,0,N,9
+SPAIN,2017,Canary Islands,Body surfing,M,13,N,9
+USA,2017,Florida,Surfing,M,28,N,9
+USA,2017,Florida,Surfing,M,18,N,9
+AUSTRALIA,2017,Westerm Australia,Swimming,M,0,N,9
+AUSTRALIA,2017,New South Wales,Surfing,M,35,N,9
+SOLOMON ISLANDS,2017,other,Spearfishing,M,0,N,9
+SOUTH AFRICA,2017,Western Cape Province,"Swimming, poaching abalone",M,0,Y,9
+JAPAN,2017,Shizuoka Prefecture,Surfing,M,42,N,9
+USA,2017,Florida,Swimming,M,0,N,9
+USA,2017,Texas,Swimming,F,0,N,9
+USA,2017,Florida,Surfing,M,17,N,9
+AUSTRALIA,2017,Victoria,Surfing,M,37,N,8
+USA,2017,Florida,Wading,F,3,N,8
+NEW ZEALAND,2017,North Island,Canoeing,M,0,N,8
+USA,2017,Massachusetts,SUP,M,69,N,8
+BAHAMAS,2017,other,Spearfishing,M,0,N,8
+USA,2017,South Carolina,Swimming,M,13,N,8
+EGYPT,2017,Red Sea Protectorate,Snorkeling,F,20,N,8
+USA,2017,Florida,Skimboarding,M,15,N,7
+USA,2017,South Carolina,other,F,12,N,7
+BAHAMAS,2017,New Providence District,Snorkeling,F,0,N,7
+BAHAMAS,2017,40 miles off Grand Bahama Island,Spearfishing,M,0,N,7
+"ST HELENA, British overseas territory",2017,Ascension Island,Surfing,M,37,N,7
+USA,2017,New Jersey,other,F,0,N,7
+SPAIN,2017,Majorca,Swimming,F,0,N,7
+USA,2017,Florida,other,F,40,N,7
+USA,2017,California,SUP,M,50,N,7
+USA,2017,Washington,Surfing,M,0,N,7
+AUSTRALIA,2017,Western Australia,Surfing,M,0,N,7
+USA,2017,Florida,Swimming,M,46,N,7
+SOUTH AFRICA,2017,Eastern Cape Province,Surfing,F,13,N,7
+USA,2017,South Carolina,Swimming,F,16,N,6
+USA,2017,Florida,Surfing,M,0,N,6
+USA,2017,South Carolina,Swimming,F,14,N,6
+REUNION,2017,other,Body boarding,M,34,N,6
+SPAIN,2017,Ibiza Island,Swimming,M,82,N,6
+FRENCH POLYNESIA,2017,Marquesas,Surfing,M,0,N,6
+BAHAMAS,2017,other,Feeding sharks,F,0,N,6
+AUSTRALIA,2017,Western Australia,Body boarding,M,48,N,6
+AUSTRALIA,2017,Victoria,Surfing,F,0,N,6
+USA,2017,Florida,Surfing,M,19,N,6
+UNITED KINGDOM,2017,South Devon,Surfing ,M,30,N,6
+USA,2017,Florida,Spearfishing,M,0,N,6
+BAHAMAS,2017,New Providence ,Snorkeling,F,32,N,6
+USA,2017,Florida,Feeding sharks,M,0,N,5
+UNITED ARAB EMIRATES,2017,"Sharjah, ",Spearfishing,M,41,N,5
+MEXICO,2017,Baja California Sur,Snorkeling,M,33,Y,6
+USA,2017,California,Swimming,F,0,N,4
+SOUTH AFRICA,2017,Western Cape Province,Surfing,M,14,N,4
+USA,2017,South Carolina,Surfing,F,33,N,4
+REUNION,2017,Saint-Leu,Body boarding,M,28,Y,4
+NEW ZEALAND,2017,South Island,Body boarding,F,20s,N,4
+"ST HELENA, British overseas territory",2017,Ascension Island,Snorkeling,F,40,N,4
+USA,2017,Florida,other,UNKNOWN,0,N,4
+AUSTRALIA,2017,Western Australia,Surfing,F,17,Y,4
+USA,2017,Hawaii,Surfing,M,28,N,4
+USA,2017,Florida,Surfing,M,17,N,4
+USA,2017,Florida,Surfing,F,0,N,4
+USA,2017,Florida,Surfing,F,35,N,4
+USA,2017,Florida,Paddle boarding,F,10,N,4
+USA,2017,Florida,Swimming,F,21,N,4
+USA,2017,Florida,Swimming,M,16,N,4
+USA,2017,Florida,Swimming,F,51,N,4
+AUSTRALIA,2017,Queensland,Kakaying,M,39,N,4
+USA,2017,Florida,Swimming,F,17,N,4
+USA,2017,Florida,Surfing,M,58,N,3
+AUSTRALIA,2017,New South Wales,Body boarding,M,30,N,3
+PHILIPPINES,2017,Luzon Island,Spearfishing,M,25,N,3
+BAHAMAS,2017,Great Exuma,Washing hands,M,58,N,3
+AUSTRALIA,2017,Western Australia,Snorkeling,F,0,N,2
+AUSTRALIA,2017,Western Australia,Surfing,M,0,N,2
+REUNION,2017,Saint-Andre,Body boarding,M,26,Y,2
+AUSTRALIA,2017,Queensland,Spearfishing,M,26,N,2
+USA,2017,Florida,Swimming,M,22,N,2
+BAHAMAS,2017,Bimini,Scuba Diving,M,37,N,2
+BRAZIL,2017,Pernambuco,Swimming,M,21,N,1
+USA,2017,Florida,other,M,Teen,N,1
+AUSTRALIA,2017,Queensland,Scuba Diving,M,55,N,1
+AUSTRALIA,2017,Queensland,Swimming,M,57,N,1
+USA,2017,Florida,other,M,0,N,1
+INDONESIA,2017,Bali,Surfing,M,48,N,1
+USA,2017,Florida,Wading,M,47,N,1
+USA,2016,Florida,Surfing,M,16,N,12
+AUSTRALIA,2016,Western Australia,Snorkeling,F,0,N,12
+SOUTH AFRICA,2016,Western Cape Province,Surf skiing ,M,55,N,12
+AUSTRALIA,2016,Western Australia,Free diving,M,61,N,12
+FRENCH POLYNESIA,2016,Tuamotos,Fishing,M,40s,N,12
+AUSTRALIA,2016,New South Wales,Surfing,M,65,N,12
+USA,2016,Hawaii,Floating,F,58,N,11
+USA,2016,Florida,Surfing,M,41,N,10
+USA,2016,Florida,Surfing,M,42,N,10
+AUSTRALIA,2016,New South Wales,Surfing,M,36,N,10
+USA,2016,Hawaii,Surfing,M,36,N,10
+AUSTRALIA,2016,Queensland,Surfing,M,0,N,10
+USA,2016,Hawaii,Snorkeling,F,66,N,10
+AUSTRALIA,2016,New South Wales,Surfing,M,25,N,10
+USA,2016,Oregon,Surfing,M,29,N,10
+USA,2016,Florida,Surfing,M,21,N,10
+USA,2016,Florida,Surfng,M,32,N,10
+AUSTRALIA,2016,New South Wales,Surfing,M,17,N,9
+USA,2016,Florida,Surfing,M,16,N,9
+USA,2016,Florida,Surfing,M,36,N,9
+USA,2016,Florida,Surfing,M,43,N,9
+USA,2016,California,Surfing,M,43,N,9
+AUSTRALIA,2016,Victoria,Surfing,M,0,N,9
+AUSTRALIA,2016,Victoria,Surfing,M,0,N,9
+USA,2016,Florida,Wading,M,60s,N,9
+USA,2016,Hawaii,Swimming,F,51,N,9
+NEW CALEDONIA,2016,North Province,Kite surfing,M,50,Y,9
+USA,2016,South Carolina,Boogie boarding,F,12,N,9
+AUSTRALIA,2016,Western Australia,Surfing,M,0,N,9
+USA,2016,Florida,Body boarding,M,9,N,9
+USA,2016,California,Spearfishing,M,22,N,9
+USA,2016,Florida,Surfing,M,25,N,8
+USA,2016,Florida,Surfing,M,37,N,8
+REUNION,2016,other,Surfing,M,20,N,8
+USA,2016,Florida,Wading,M,49,N,8
+BAHAMAS,2016,New Providence Island,Snorkeling,M,15,N,8
+USA,2016,Hawaii,SUP Foil boarding,M,21,N,8
+USA,2016,Florida,Surfing,M,22,N,8
+SPAIN,2016,Alicante Province,Swimming,M,40,N,7
+CHINA,2016,Hong Kong,Swimming,M,72,N,7
+AUSTRALIA,2016,New South Wales,Surfing,M,18,N,7
+JAPAN,2016,Kochi Prefecture,Surfing,M,29,N,7
+AUSTRALIA,2016,Tasmania,Surfing,M,36,N,7
+BAHAMAS,2016,Abaco Islands,Spearfishing,M,0,N,7
+USA,2016,Florida,Surfing,F,9,N,7
+USA,2016,Florida,other,F,11,N,7
+USA,2016,California,Kite surfing,M,61,N,7
+USA,2016,South Carolina,Swimming,M,0,N,7
+BAHAMAS,2016,other,Scuba Diving,M,0,N,7
+SPAIN,2016,Canary Islands,Wading,F,10,N,7
+USA,2016,Florida,Swimming,F,42,N,7
+USA,2016,South Carolina,other,M,35,N,6
+USA,2016,North Carolina,Surfing,M,11,N,6
+COLUMBIA,2016,Isla Provedencia,Scuba Diving,M,59,N,6
+SOUTH AFRICA,2016,Western Cape Province,Spearfishing,M,43,N,6
+USA,2016,South Carolina,Floating,M,42,N,6
+USA,2016,Florida,Wading,M,0,N,6
+USA,2016,Hawaii,Surfing,M,0,N,6
+USA,2016,Texas,Floating in tube,F,6,N,6
+USA,2016,North Carolina,Standing,M,19,N,6
+USA,2016,Florida,Swimming,M,64,N,6
+AUSTRALIA,2016,Western Australia,Diving,F,60,Y,6
+EGYPT,2016,Suez,Swimming,M,23,N,6
+AUSTRALIA,2016,New South Wales,Spearfishing,M,0,N,6
+NEW CALEDONIA,2016,other,Kite surfing,M,0,N,6
+AUSTRALIA,2016,Western Australia,Surfing,M,29,Y,5
+USA,2016,California,Swimming,F,52,N,5
+USA,2016,Florida,Swimming,M,13,N,5
+USA,2016,Florida,Swimming,F,57,N,5
+USA,2016,Florida,Swimming,F,22,N,5
+USA,2016,Florida,Swimming,F,11,N,5
+USA,2016,Florida,Swimming,M,48,N,5
+USA,2016,Hawaii,Floating,M,59,N,5
+INDONESIA,2016,Bali,Surfing,M,24,N,4
+USA,2016,Florida,Surfing,M,15,N,4
+SOUTH AFRICA,2016,Western Cape Province,Surf-skiing,M,0,N,4
+AUSTRALIA,2016,New South Wales,Swimming,M,12,N,4
+USA,2016,Florida,Spearfishing,M,26,N,4
+NEW CALEDONIA,2016,Grand Terre,Walking,F,69,Y,4
+USA,2016,Florida,Fishing,M,34,N,4
+USA,2016,Hawaii,Snorkeling,F,46,N,3
+AUSTRALIA,2016,New South Wales,Surfing,M,22,N,3
+USA,2016,Florida,other,M,Teen,N,3
+AUSTRALIA,2016,New South Wales,Surfing,M,41,N,3
+USA,2016,Florida,Body surfing,M,19,N,3
+Fiji,2016,Vanua Levu,Diving for beche-de-mer,M,45,Y,3
+USA,2016,Florida,other,M,12,N,3
+AUSTRALIA,2016,South Australia,Fishing,M,0,N,3
+BRAZIL,2016,Santa Catarina State,Swimming,M,41,N,3
+NEW CALEDONIA,2016,South Province,Kite surfing,M,21,N,2
+NEW CALEDONIA,2016,South Province,Spearfishing,M,31,N,2
+DOMINICAN REPUBLIC,2016,Altagracia Province,Wading,F,0,N,2
+AUSTRALIA,2016,Queensland,Walking,F,45,N,2
+AUSTRALIA,2016,New South Wales,Windsurfing,M,40,N,2
+BRAZIL,2016,Balneário Camboriú,Swimming,M,41,N,2
+USA,2016,Hawaii,Surfing,M,0,N,1
+USA,2016,Hawaii,Surfing,F,15,N,1
+USA,2016,Texas,Spearfishing,M,0,N,1
+USA,2016,Hawaii,Paddle boarding,M,48,N,1
+AUSTRALIA,2016,Queensland,Surfing,M,0,N,1
+AUSTRALIA,2016,Queensland,Wading,M,11,N,1
+AUSTRALIA,2016,Queensland,Spearfishing,M,31,N,1
+SPAIN,2015,Grand Canary Island,Swimming,F,38,N,12
+USA,2015,Hawaii,Paddle boarding,M,71,N,12
+AUSTRALIA,2015,New South Wales,Surfing,M,43,N,12
+BRAZIL,2015,Pernambuco,Scuba diving,M,32,N,12
+ARUBA,2015,other,Sea disaster,M,58,Y,12
+BAHAMAS,2015,other,Lobster fishing,M,26,N,12
+SOUTH AFRICA,2015,Eastern Cape Province,Swimming / Wading,F,22,N,12
+ECUADOR,2015,Galapagos Islands,Snorkeling,M,55,N,11
+USA,2015,Florida,Surfing,M,0,N,11
+USA,2015,Florida,Swimming,F,0,N,11
+USA,2015,Florida,Surfing,M,28,N,11
+AUSTRALIA,2015,New South Wales,Surfing,M,20,N,11
+USA,2015,Hawaii,Swimming,M,54,N,11
+USA,2015,Florida,Wading,F,28,N,11
+MOZAMBIQUE,2015,Inhambane Province,Fishing,M,19,N,11
+AUSTRALIA,2015,Western Australia,Spearfishing,M,50,N,10
+USA,2015,Hawaii,Body boarding,M,10,N,10
+SOUTH AFRICA,2015,Western Cape Province,Surfing,M,42,N,10
+USA,2015,Florida,Surfing,M,21,N,10
+USA,2015,Florida,Surfing,M,21,N,10
+MOZAMBIQUE,2015,Inhambane Province,Fishing for shrimp,F,35,Y,10
+USA,2015,Hawaii,Swimming,M,44,N,10
+USA,2015,South Carolina,Boogie boarding,F,9,N,10
+USA,2015,Hawaii,Surfing,M,25,N,10
+MOZAMBIQUE,2015,Inhambane Province,Fishing,M,0,N,10
+AUSTRALIA,2015,Western Australia,Surfing,M,18,N,10
+USA,2015,Florida,Body boarding,M,22,N,10
+USA,2015,Texas,Wading,M,13,N,10
+USA,2015,Florida,Surfing,M,14,N,10
+USA,2015,Florida,Surfing,M,22,N,9
+AUSTRALIA,2015,Queensland,Snorkeling,F,7,N,9
+USA,2015,Florida,Surfing,M,14,N,9
+USA,2015,Hawaii,Spearfishing,M,27,N,9
+USA,2015,Florida,Wading,M,12,N,9
+USA,2015,Florida,Photographing fish,M,16,N,9
+USA,2015,Florida,Swimming,M,0,N,9
+USA,2015,Florida,Surfing,M,20,N,9
+AUSTRALIA,2015,New South Wales,Surfing,M,42,N,9
+USA,2015,California,Stand-Up Paddleboarding,F,50,N,9
+AUSTRALIA,2015,New South Wales,Surf-skiing,M,62,N,9
+USA,2015,South Carolina,other,M,0,N,9
+THAILAND,2015,Phuket,Wading,F,37,N,9
+FIJI,2015,other,Spearfishing,M,0,N,9
+USA,2015,California,Surfing,F,54,N,8
+USA,2015,California,Surfing,M,21,N,8
+AUSTRALIA,2015,New South Wales,Surfing,M,38,N,8
+USA,2015,South Carolina,Surfing,M,15,N,8
+USA,2015,Florida,Walking,F,10,N,8
+AUSTRALIA,2015,New South Wales,Surfing,M,52,N,7
+COSTA RICA,2015,Guanacaste,Surfing,M,47,N,7
+USA,2015,Florida,Surfing,M,25,N,7
+AUSTRALIA,2015,Tasmania,Scallop diving on hookah,M,46,Y,7
+AUSTRALIA,2015,Victoria,Surfing,M,40,N,7
+REUNION,2015,other,Surfing,M,45,N,7
+SOUTH AFRICA,2015,Eastern Cape Province,Surfing,M,34,N,7
+USA,2015,California,Surfing,M,38,N,7
+BAHAMAS,2015,Grand Bahama Island,Spearfishing,F,23,N,7
+USA,2015,North Carolina,other,M,32,N,7
+AUSTRALIA,2015,New South Wales,Surfing,M,52,N,7
+AUSTRALIA,2015,New South Wales,Body boarding ,M,32,N,7
+USA,2015,North Carolina,Swimming,M,68,N,7
+AUSTRALIA,2015,New South Wales,Surfing,M,0,N,6
+USA,2015,South Carolina,Playing in the water,M,12,N,6
+USA,2015,North Carolina,Swimming,M,18,N,6
+SOUTH AFRICA,2015,Western Cape Province,Body Boarding,M,19,N,6
+SOUTH AFRICA,2015,Western Cape Province,Surfing,M,23,N,6
+USA,2015,South Carolina,Standing,M,43,N,6
+USA,2015,North Carolina,Body surfing?,M,47,N,6
+USA,2015,North Carolina,Swimming,M,6,N,6
+USA,2015,South Carolina,Standing,M,9,N,6
+PUERTO RICO,2015,other,Spearfishing,M,36,N,6
+USA,2015,Florida,Swimming,M,10,N,6
+USA,2015,North Carolina,Wading,M,16,N,6
+USA,2015,North Carolina,Wading,F,12,N,6
+USA,2015,California,other,F,0,N,6
+USA,2015,North Carolina,Boogie boarding,F,13,N,6
+USA,2015,Florida,Playing,M,11,N,6
+USA,2015,Florida,Attempting to rescue a shark,F,17,N,6
+REUNION,2015,Le Port,Surfing,M,47,N,6
+USA,2015,Florida,Standing,F,14,N,5
+USA,2015,Florida,Wading,F,19,N,5
+FRENCH POLYNESIA,2015,Rangiroa,Spearfishing,M,19,N,5
+USA,2015,Florida,Swimming,F,13,N,5
+USA,2015,Florida,Surfing,M,18,N,5
+USA,2015,South Carolina,other,M,30,N,5
+NEW CALEDONIA,2015,other,Snorkeling,M,50,Y,5
+USA,2015,Florida,Swimming,M,0,N,5
+AUSTRALIA,2015,New South Wales,Surfing,M,0,N,5
+SOUTH AFRICA,2015,Eastern Cape Province,Diving,M,29,N,5
+USA,2015,Hawaii,Snorkeling,F,65,Y,4
+USA,2015,Florida,Wading,M,63,N,4
+AUSTRALIA,2015,South Australia,Surfing,M,26,N,4
+AUSTRALIA,2015,New South Wales,Surf skiing ,M,71,N,4
+USA,2015,Florida,Photographing the shark,M,48,N,4
+REUNION,2015,Saint-Gilles-les-Bains,Surfing,M,13,Y,4
+AUSTRALIA,2015,New South Wales,Paddle boarding,M,0,N,4
+USA,2015,Florida,Spearfishing,M,70,N,4
+EGYPT,2015,other,Swimming,M,52,Y,3
+USA,2015,Hawaii,Standing / Snorkeling,M,58,N,3
+FRENCH POLYNESIA,2015,Bora Bora,Hand feeding sharks,M,9,N,3
+FRENCH POLYNESIA,2015,Central Tuamotu,Sitting in the water,M,18 months,N,3
+REUNION,2015,d’Étang-Salé,Swimming,F,22,Y,2
+AUSTRALIA,2015,New South Wales,Surfing,M,41,Y,2
+AUSTRALIA,2015,New South Wales,Surfing,M,35,N,2
+AUSTRALIA,2015,New South Wales,Bodysurfing,M,0,N,2
+AUSTRALIA,2015,New South Wales,Surfing,M,0,N,1
+SOUTH AFRICA,2015,Eastern Cape Province,Floating,M,24,N,1
+AUSTRALIA,2015,New South Wales,Filming,M,17,N,1
+BAHAMAS,2015,Abaco Islands,Snorkeling,F,34,N,1
+SOUTH AFRICA,2015,Eastern Cape Province,Surfing,M,15,N,1
+USA,2015,Florida,other,M,12,N,1
+AUSTRALIA,2014,New South Wales,Surfing,UNKNOWN,0,N,12
+AUSTRALIA,2014,Western Australia,Spearfishing,M,17,Y,12
+USA,2014,California,Surfing,M,50,N,12
+JAPAN,2014,other,Diving / Filming,M,0,N,12
+AUSTRALIA,2014,Queensland,Spearfishing,M,17,Y,12
+AUSTRALIA,2014,Western Australia,Surfing,M,13,N,11
+USA,2014,Florida,Surfing,M,44,N,11
+USA,2014,Hawaii,Snorkeling,M,53,N,11
+AUSTRALIA,2014,New South Wales,Surfing,M,0,N,11
+USA,2014,Florida,Surfing,M,18,N,11
+USA,2014,Hawaii,Surfing,F,34,N,10
+USA,2014,Hawaii,Stand-Up Paddleboarding,F,0,N,10
+USA,2014,Hawaii,Stand-Up Paddleboarding,M,0,N,10
+USA,2014,Hawaii,Surfing,M,0,N,10
+AUSTRALIA,2014,New South Wales,Surfing,F,13,N,10
+USA,2014,South Carolina,Standing in inner tube,F,7,N,10
+USA,2014,Florida,Body surfing or Boogie boarding,F,0,N,10
+USA,2014,Florida,Surfing,M,29,N,10
+USA,2014,Florida,Fishing,F,40,N,10
+USA,2014,Florida,Surfing,M,15,N,10
+USA,2014,California,Surfing,M,28,N,10
+AUSTRALIA,2014,Western Australia,Surfing,M,23,N,10
+USA,2014,Florida,Surfing,M,0,N,9
+FRENCH POLYNESIA,2014,Moorea,Feeding fish,F,36,N,9
+AUSTRALIA,2014,New South Wales,Swimming,M,50,Y,9
+USA,2014,Alabama,Fishing ,M,43,N,9
+SPAIN,2014,Catalonia,Playing with an air mattress,M,16,N,9
+USA,2014,Florida,Body surfing,F,13,N,8
+USA,2014,Florida,Surfing,M,17,N,8
+SPAIN,2014,Alicante,Swimming,F,30s,N,8
+USA,2014,North Carolina,Surfing,M,29,N,8
+USA,2014,South Carolina,Standing,F,0,N,8
+USA,2014,North Carolina,Kite boarding,UNKNOWN,0,N,8
+AUSTRALIA,2014,Western Australia,Spearfishing,M,31,N,8
+USA,2014,Florida,Standing,M,0,N,8
+USA,2014,Florida,other,M,26,N,8
+BAHAMAS,2014,other,Spearfishing,M,0,N,8
+USA,2014,Florida,Swimming,F,10,N,8
+USA,2014,Louisiana,Swimming,M,7,N,8
+USA,2014,South Carolina,Boogie boarding,M,10,N,8
+USA,2014,Florida,Swimming,F,45,N,8
+USA,2014,Florida,Surfing,M,50s,N,8
+USA,2014,Florida,Boogie boarding,M,8,N,8
+SOUTH AFRICA,2014,Western Cape Province,Surfing,M,20,N,8
+USA,2014,North Carolina,Swimming,M,Teen,N,7
+REUNION,2014,Saint-Leu,Surfing,M,51,N,7
+USA,2014,Florida,Standing,M,8,N,7
+SPAIN,2014,Canary Islands,Wading,UNKNOWN,0,N,7
+USA,2014,Hawaii,Swimming,M,61,N,7
+USA,2014,Florida,Swimming,M,39,N,7
+USA,2014,North Carolina,Body surfing,M,0,N,7
+USA,2014,Florida,Surfing,M,14,N,7
+USA,2014,California,Surfing,M,0,N,7
+USA,2014,South Carolina,Body surfing,M,19,N,7
+BAHAMAS,2014,Abaco Islands,Spearfishing,M,42,N,6
+AUSTRALIA,2014,South Australia,Surfing,M,0,N,6
+AUSTRALIA,2014,South Australia,Body boarding,M,15,N,6
+BRAZIL,2014,other,Fishing,M,43,N,6
+USA,2014,Delaware,Standing,M,16,N,6
+AUSTRALIA,2014,South Australia,Body boarding,M,39,N,6
+JAPAN,2014,Atsumi peninsula,Surfing,M,43,N,6
+USA,2014,Texas,Kneeling in the water,F,14,N,6
+USA,2014,Florida,Swimming,F,22,N,6
+AUSTRALIA,2014,New South Wales,Surfing,M,0,N,6
+USA,2014,Palmyra Atoll,Tagging sharks,F,37,N,6
+AUSTRALIA,2014,Queensland,Fell into the water,F,29,N,5
+FRANCE,2014,Wallis and Futuna,Scuba diving,M,0,N,5
+USA,2014,Florida,Body boarding,F,38,N,5
+AUSTRALIA,2014,South Australia,Surfing,M,35,N,5
+USA,2014,Florida,Wading,F,44,N,5
+USA,2014,Georgia,Surfing,M,12,N,5
+USA,2014,South Carolina,Swimming,F,40,N,5
+SOUTH AFRICA,2014,Western Cape Province,Diving,UNKNOWN,0,N,5
+USA,2014,Florida,Surfing,M,23,N,5
+AUSTRALIA,2014,Western Australia,Spearfishing,M,0,N,4
+USA,2014,Florida,Swimming,M ,42,N,4
+USA,2014,Florida,Wading,M,25,N,4
+USA,2014,Florida,Surfing,M,teen,N,4
+USA,2014,Florida,Surfing,M,teen,N,4
+AUSTRALIA,2014,New South Wales,Swimming,F,63,Y,4
+SOUTH AFRICA,2014,Eastern Cape Province,Swimming,M,66,Y,3
+USA,2014,Florida,Kite Surfing,M,0,N,3
+USA,2014,Florida,Surfing,M,9,N,3
+NEW CALEDONIA,2014,Baie de Sainte-Marie,Kite Surfing,M,42,N,3
+AUSTRALIA,2014,Victoria,Surfing,M,42,N,3
+AUSTRALIA,2014,New South Wales,Swimming,M,0,N,3
+USA,2014,Florida,Surfing,M,21,N,3
+FRENCH POLYNESIA,2014,Society Islands,Kitesurfing,M,21,N,2
+AUSTRALIA,2014,South Australia,Spearfishing / Free diving,M,28,Y,2
+NEW ZEALAND,2014,South Island,Surfing,M,28,N,2
+NEW ZEALAND,2014,South Island,Spearfishing,M,24,N,1
+USA,2014,Hawaii,Free diving / Photographing pilot whales,M,0,N,0
+NEW CALEDONIA,2013,North Province,Snorkeling,M,37,N,12
+SOUTH AFRICA,2013,Western Cape Province,Surfing,M,19,N,12
+KIRIBATI,2013,740 miles SE of Tarawa Atoll,Attempting to remove fishing net from submerged object,M,35,N,12
+USA,2013,Hawaii,Boogie boarding,M,29,N,12
+USA,2013,Florida,Surfing,M,30,N,12
+AUSTRALIA,2013,New South Wales,Surfing,M,26,N,12
+USA,2013,Hawaii,Kayaking / Fishing,M,57,Y,12
+AUSTRALIA,2013,New South Wales,Body boarding,M,19,Y,11
+USA,2013,Hawaii,Snorkeling,F,58,N,11
+AUSTRALIA,2013,Western Australia,Surfing,M,35,Y,11
+USA,2013,Oregon,Surfing,M,25,N,11
+AUSTRALIA,2013,Western Australia,Surfing,M,0,N,11
+USA,2013,New Jersey,Body boarding,M,16,N,11
+USA,2013,Florida,Surfing,M,0,N,11
+USA,2013,Hawaii,Kiteboarding,M,46,N,10
+AUSTRALIA,2013,Western Australia,Snorkeling,F,60,N,10
+REUNION,2013,d’Étang-Salé,Body boarding,M,24,N,10
+AUSTRALIA,2013,Western Australia,Diving for crayfish,M,0,N,10
+AUSTRALIA,2013,New South Wales,Surfing,M,41,N,10
+USA,2013,Hawaii,Diving ,M,45,N,10
+USA,2013,Hawaii,Surfing,M,25,N,10
+USA,2013,Florida,Wading,M,6,N,10
+SOUTH AFRICA,2013,Eastern Cape Province,Swimming / snorkeling,M,74,Y,10
+AUSTRALIA,2013,Western Australia,Diving for Abalone,M,55,N,10
+USA,2013,California,Surfing,M,45,N,10
+USA,2013,Florida,Wading,M,12,N,10
+USA,2013,Florida,Surfing,M,50,N,9
+ISRAEL,2013,Southern District,Diving,M,27,N,9
+USA,2013,Florida,Standing,M,7,N,9
+USA,2013,Florida,Swimming,M,45,N,9
+USA,2013,Florida,Surfing,M,0,N,9
+USA,2013,Florida,Swimming,M,21,N,9
+USA,2013,Florida,Surfing,F,13,N,9
+USA,2013,South Carolina,other,F,0,UNKNOWN,9
+USA,2013,Florida,Standing,M,25,N,9
+USA,2013,Florida,Swimming,M,17,N,9
+BAHAMAS,2013,other,other,M,0,N,9
+USA,2013,Florida,Casting a net,M,9,N,9
+BAHAMAS,2013,other,Spearfishing,M,0,N,8
+USA,2013,California,Swimming,M,0,N,8
+USA,2013,Florida,Boogie boarding,F,11,N,8
+AUSTRALIA,2013,New South Wales,Wrangling a shark,M,0,N,8
+USA,2013,Hawaii,Surfing,M,16,N,8
+USA,2013,California,Surfing,F,0,N,8
+USA,2013,Hawaii,Snorkeling,F,20,Y,8
+USA,2013,Hawaii,Kiteboarding,F,19,N,8
+USA,2013,South Carolina,Surfing,M,10,N,8
+SOUTH AFRICA,2013,other,Attempting to free the shark,M,0,N,8
+USA,2013,Florida,Fishing,M,17,N,8
+USA,2013,Hawaii,Snorkeling,F,56,N,7
+USA,2013,South Carolina,Swimming,M,32,N,7
+BAHAMAS,2013,Abaco Islands,Spearfishing,M,40,N,7
+MEXICO,2013,Quintana Roo,Wading,F,0,N,7
+USA,2013,Hawaii,Surfing,M,18,N,7
+BAHAMAS,2013,Exuma Islands,Cleaning fish,M,64,N,7
+BAHAMAS,2013,Abaco Islands,Diving,M,50,N,7
+BRAZIL,2013,Pernambuco,Swimming,F,18,Y,7
+USA,2013,Alabama,Walking in surf,F,50,N,7
+USA,2013,Florida,Swimming ,M,teen,N,7
+REUNION,2013,Saint-Paul,Swimming & snorkeling,F,15,Y,7
+DIEGO GARCIA,2013,other,Swimming,M,33,Y,7
+USA,2013,North Carolina,Wading,F,63,N,7
+AUSTRALIA,2013,Victoria,Body surfing,M,29,N,7
+TAIWAN,2013,Taitung ,Fishing,M,0,N,6
+USA,2013,Florida,Swimming,M,0,N,6
+USA,2013,South Carolina,Swimming,M,14,N,6
+USA,2013,Hawaii,Swimming,M,28,N,6
+USA,2013,Texas,Swimming,M,15,N,6
+SOUTH AFRICA,2013,Eastern Cape Province,Surfing,M,0,N,6
+USA,2013,Florida,Surfing,F,0,N,6
+USA,2013,South Carolina,Boogie Boarding,F,10,N,6
+AUSTRALIA,2013,New South Wales,Surfing,M,0,N,6
+USA,2013,Hawaii,Diving,M,32,N,5
+USA,2013,Florida,Swimming,M,11,N,5
+BRAZIL,2013,Pernambuco,other,M,41,Y,5
+ECUADOR,2013,Santa Cruz Island,Surfing,M,29,N,5
+REUNION,2013,Saint-Gilles,Body boarding,M,36,Y,5
+USA,2013,Florida,Surfing,M,16,N,5
+MEXICO,2013,Quintana Roo,Swimming,F,34,N,4
+AUSTRALIA,2013,New South Wales,Fishing,M,51,N,4
+USA,2013,Florida,Playing in the surf,M,9,N,4
+SOUTH AFRICA,2013,Western Cape Province,Free diving,M,0,N,4
+USA,2013,Florida,Surfing,M,21,N,4
+GUAM,2013,other,other,M,40,Y,4
+FRENCH POLYNESIA,2013,Tuamotus,Kite boarding,M,53,N,4
+USA,2013,Florida,Swimming,M,50,N,4
+USA,2013,Hawaii,Surfing,M,58,N,4
+SEYCHELLES,2013,other,Free diving,M,34,N,3
+BELIZE,2013,other,Snorkeling,F,0,N,3
+BAHAMAS,2013,Eleuthera,Fly fishing,M,50,N,3
+SOUTH AFRICA,2013,Western Cape Province,Surfing,M,0,N,3
+JAMAICA,2013,St. Catherine,Spearfishing,M,68,Y,3
+AUSTRALIA,2013,Western Australia,Spearfishing,M,28,N,3
+PHILIPPINES,2013,Palawan,Swimming to shore with floatioon devices after boat engine conked out,M,28 & 26,N,3
+SOUTH AFRICA,2013,Eastern Cape Province,Swimming,M,39,N,3
+NEW ZEALAND,2013,North Island,Swimming,M,46,Y,2
+USA,2013,Hawaii,Surfing,UNKNOWN,0,N,2
+USA,2013,Hawaii,Surfing,M,0,N,2
+USA,2013,Florida,Surfing,M,16,N,2
+FRENCH POLYNESIA,2013,Society Islands,Scuba diving,M,48,N,2
+JAMAICA,2013,Kingston Parish,other,M,18,N,2
+AUSTRALIA,2013,Queensland,Surfing,M,0,N,1
+USA,2013,Hawaii,Surfing,M,43,N,1
+NEW ZEALAND,2013,Mercury Islands,Spearfishing,M,0,N,1
+AUSTRALIA,2013,Western Australia,Spearfishing / Free diving,M,26,N,1
+USA,2012,Florida,Swimming,M,0,N,12
+AUSTRALIA,2012,New South Wales,Surfing,M,23,N,12
+AUSTRALIA,2012,New South Wales,Paddle boarding,M,29,N,12
+SOUTH AFRICA,2012,Eastern Cape Province,Swimming,M,20,Y,12
+AUSTRALIA,2012,Western Australia,Surfing,M,32,N,12
+USA,2012,Hawaii,Surfing,M,60,N,12
+AUSTRALIA,2012,New South Wales,Spearfishing,M,31,N,12
+NEW ZEALAND,2012,South Island,Scuba diving,F,25,N,12
+USA,2012,Hawaii,Snorkeling,M,61,N,11
+MEXICO,2012,Sinaloa,Swimming,M,32,Y,11
+USA,2012,Florida,Surfing,M,14,N,11
+USA,2012,Hawaii,Diving,M,30,N,11
+USA,2012,Hawaii,Surfing,M,43,N,11
+USA,2012,California,Surfing,M,25,N,10
+USA,2012,Hawaii,Swimming,F,51,N,10
+USA,2012,California,Surfing,M,39,Y,10
+USA,2012,Florida,other,F,35,N,10
+USA,2012,Florida,Surfing,M,24,N,10
+USA,2012,Hawaii,Paddle boarding,M,55,N,10
+NIGERIA,2012,Delta,Bathing,F,38,N,10
+USA,2012,California,Windsurfing,M,42,N,10
+AUSTRALIA,2012,Western Australia,Bodyboarding,M,11,N,10
+USA,2012,Florida,Surfing,M,21,N,9
+USA,2012,Florida,Surfing,M,22,N,9
+USA,2012,Florida,Surfing,M,52,N,9
+TONGA,2012,Vava'u,Swimming,F,29,N,9
+USA,2012,Florida,Surfing,UNKNOWN,19,N,9
+USA,2012,Florida,Surfing,M,25,N,9
+USA,2012,Florida,Swimming,M,0,N,9
+USA,2012,Florida,Surfing,M,30s,N,9
+USA,2012,Florida,Surfing,M,37,N,9
+USA,2012,Florida,Surfing,M,32,N,9
+USA,2012,Florida,Boogie boarding,F,8,N,9
+USA,2012,Florida,Swimming or boogie boarding,F,56,N,9
+AUSTRALIA,2012,Western Australia,Surfing,M,34,N,8
+BRAZIL,2012,Pernambuco,Swimming,M,18,Y,8
+USA,2012,Alabama,Wading or swimming,M,31,N,8
+USA,2012,Florida,Free diving ,M,56,N,8
+REUNION,2012,Saint Leu,Surfing,M,39,N,8
+FRENCH POLYNESIA,2012,Tuamotus,Spearfishing,M,0,N,8
+USA,2012,California,Surfing,M,17,N,7
+AUSTRALIA,2012,South Australia,Surfing,M,48,N,7
+USA,2012,Hawaii,Surfing,M,44,N,7
+USA,2012,Massachusetts,Body surfing,M,50,N,7
+REUNION,2012,Trois-Bassins,Surfing,M,22,Y,7
+AUSTRALIA,2012,Western Australia,Surfing,M,24,Y,7
+USA,2012,North Carolina,Swimming,F,43,N,7
+BAHAMAS,2012,Eleuthera,Spearfishing,M,0,N,7
+SOUTH AFRICA,2012,Western Cape Province,Surfing,M,29,N,7
+USA,2012,Florida,Swimming,M,6,N,6
+USA,2012,Florida,Surfing,M,26,N,6
+USA,2012,Hawaii,Sitting in the water,F,16,N,6
+AUSTRALIA,2012,Tasmania,Surfing,M,0,N,6
+USA,2012,Florida,Swimming,M,12,N,6
+AUSTRALIA,2012,Western Australia,Surf skiing ,M,62,N,6
+USA,2012,North Carolina,Wading,F,6,N,6
+USA,2012,South Carolina,Swimming,F,18,N,6
+USA,2012,South Carolina,Swimming,M,0,N,6
+USA,2012,South Carolina,Swimming,M,0,N,6
+USA,2012,South Carolina,Swimming,M,16,N,6
+AUSTRALIA,2012,Victoria,Surfing,M,42,N,6
+AUSTRALIA,2012,New South Wales,Surf skiing ,M,30,N,6
+USA,2012,Florida,Surfing,F,12,N,6
+USA,2012,South Carolina,Boogie Boarding,M,25,N,6
+USA,2012,North Carolina,Wading,F,33,N,5
+MEXICO,2012,Guerrero,Free diving / spearfishing,M,46,N,5
+USA,2012,Florida,Surfing,M,22,N,5
+FIJI,2012,other,Spearfishing,M,20,N,5
+USA,2012,Florida,Swimming,F,47,N,5
+USA,2012,California,Paddle boarding,F,15,N,5
+USA,2012,Florida,Surfing,M,28,N,4
+SOUTH AFRICA,2012,Western Cape Province,Body boarding,M,20,Y,4
+USA,2012,Hawaii,Surfing,M,28,N,4
+USA,2012,Florida,other,M,0,N,4
+AUSTRALIA,2012,Western Australia,Scuba diving,M,33,Y,3
+USA,2012,Florida,Surfing,M,21,N,3
+AUSTRALIA,2012,Queensland,Surfing,M,20,N,3
+USA,2012,Florida,Surfing,M,61,N,3
+USA,2012,Florida,Surfing,F,15,N,3
+USA,2012,Florida,Surfing,M,17,N,3
+NEW ZEALAND,2012,North Island,Surfing,M,0,N,3
+REUNION,2012,Saint-Benoit,Body boarding,M,31,N,3
+USA,2012,Florida,Kite Surfing,M,19,N,3
+AUSTRALIA,2012,New South Wales,Fishing,M,0,N,2
+AUSTRALIA,2012,Queensland,Surfing,M,29,N,2
+USA,2012,Hawaii,Snorkeling,UNKNOWN,0,N,1
+AUSTRALIA,2012,Western Australia,Snorkeling,M,26,N,1
+BAHAMAS,2012,other,"Diving, photographing sharks",M,0,N,1
+AUSTRALIA,2012,New South Wales,Surfing,M,44,N,1
+SOUTH AFRICA,2012,Eastern Cape Province,Swimming,M,25,Y,1
+USA,2012,Oregon,Surfing,M,53,N,1
+AUSTRALIA,2012,New South Wales,Surfing,M,28,N,1
+AUSTRALIA,2012,Queensland,Spearfishing,M,34,N,1
+USA,2011,Florida,other,M,0,N,12
+ECUADOR,2011,Santa Elena,Surfing,M,23,N,12
+USA,2011,Florida,Surfing,M,27,N,12
+AUSTRALIA,2011,New South Wales,Surfing,M,51,N,12
+AUSTRALIA,2011,New South Wales,Surfing,M,14,N,12
+USA,2011,Oregon,Surfing,F,0,N,12
+AUSTRALIA,2011,New South Wales,Surfing,M,63,N,12
+INDONESIA,2011,Bali,Surfing,M,18,N,11
+AUSTRALIA,2011,Queensland,Swimming,M,10,N,11
+PAPUA NEW GUINEA,2011,East New Britain,Scuba diving,M,0,N,11
+BRAZIL,2011,Pernambuco,Surfing,M,35,N,11
+REUNION,2011,Bois-Blanc ,Free diving / spearfishing,M,42,N,11
+USA,2011,California,Surfing,M,27,N,10
+SCOTLAND,2011,Moray,Surfing,M,26,N,10
+AUSTRALIA,2011,Western Australia,Diving,M,32,Y,10
+USA,2011,Oregon,Surfing,M,41,N,10
+AUSTRALIA,2011,Victoria,Diving,M,50,N,10
+USA,2011,Florida,Surfing,M,0,N,10
+USA,2011,Oregon,Surfing,M,0,N,10
+AUSTRALIA,2011,Western Australia,Swimming,M,64,Y,10
+USA,2011,Florida,Wade fishing,M,0,N,10
+USA,2011,Alabama,other,M,29,N,10
+SOUTH AFRICA,2011,Western Cape Province,Swimming,M,43,N,9
+USA,2011,Florida,Spearfishing,M,21,N,9
+USA,2011,South Carolina,Jumping in the waves,M,5,N,9
+REUNION,2011,Saint-Gilles,Body boarding,M,38,Y,9
+KENYA,2011,Coast Province,Swimming,M,17,Y,9
+USA,2011,Florida,Surfing,M,25,N,9
+USA,2011,California,Surfing,M,37,N,9
+PAPUA NEW GUINEA,2011,Central Province,Kite Surfing,M,30,N,9
+USA,2011,Hawaii,Surfing,UNKNOWN,0,N,9
+AUSTRALIA,2011,Western Australia,Body boarding,M,21,Y,9
+USA,2011,Florida,Surfing,M,19,N,9
+USA,2011,Florida,Surfing,M,19,N,8
+USA,2011,Texas,Wade Fishing,F,39,N,8
+RUSSIA,2011,Primorsky Krai,"Standing, collecting sea stars",M,0,N,8
+USA,2011,North Carolina,Surfing,M,21,N,8
+USA,2011,North Carolina,other,M,10,N,8
+SOUTH AFRICA,2011,Western Cape Province,Surfing,M,49,Y,8
+RUSSIA,2011,"Peter the Great Bay, Khasan, Primorsky Krai (Far East)",Swimming,M,16,N,8
+USA,2011,North Carolina,Wading,F,20s,N,8
+RUSSIA,2011,"Telyakovsky Bay, Khasan,  Primorsky Krai (Far East)",Swimming,M,25,N,8
+FRENCH POLYNESIA,2011,Society Islands,Surfing,M,32,N,8
+USA,2011,Puerto Rico,Floating ,M,27,N,8
+SEYCHELLES,2011,Praslin,Swimming or Snorkeling,M,30,Y,8
+USA,2011,North Carolina,Swimming,M,54,N,8
+SEYCHELLES,2011,Praslin,Diving,M,36,Y,8
+USA,2011,New Jersey,Wade Fishing,M,0,N,7
+SOUTH AFRICA,2011,Eastern Cape Province,Surfing,M,29,N,7
+USA,2011,North Carolina,Boogie Boarding,F,6,N,7
+USA,2011,Texas,Surf fishing,M,0,N,7
+BAHAMAS,2011,Grand Bahama Island,Scuba diving,M,54,N,7
+USA,2011,Texas,Swimming,M,12,N,7
+USA,2011,Texas,Wade Fishing,M,14,N,7
+REUNION,2011,Saint-Gilles,Surfing,M,16,N,7
+COLUMBIA,2011,Sucre,Kayaking,M,17,N,7
+TURKS & CAICOS,2011,Middle Caicos,Snorkeling,M,28,N,6
+BRAZIL,2011,Pernambuco,Surfing,M,21,N,6
+SOUTH AFRICA,2011,KwaZulu-Natal,Scuba diving,M,22,N,6
+USA,2011,North Carolina,Playing in the surf,F,10,N,6
+USA,2011,California,Surfing,M,0,N,6
+USA,2011,Florida,Jet skiing,M,20,N,6
+TURKS & CAICOS,2011,Caicos Bank,Spearfishing,M,35,N,6
+COSTA RICA,2011,Guanacaste,Surfing,M,15,Y,6
+REUNION,2011,Saint-Gilles-les-Bains,Boogie Boarding,M,31,Y,6
+USA,2011,Florida,Scuba diving,M,28,N,6
+COLUMBIA,2011,San Andrés archipelago,Spearfishing,M,24,N,6
+USA,2011,California,Spearfishing,M,28,N,6
+USA,2011,Florida,Wading,M,19,N,6
+MALAYSIA,2011,Kedah,Snorkeling,F,0,N,6
+USA,2011,Texas,Standing or boogie boardin,F,22,N,5
+SOUTH AFRICA,2011,Western Cape Province,Surfing,M,33,N,5
+USA,2011,Hawaii,Surfing,F,0,N,5
+USA,2011,Hawaii,Paddle boarding,F,0,N,5
+SOUTH AFRICA,2011,KwaZulu-Natal,Spearfishing,M,28,Y,5
+USA,2011,Florida,Body surfing,M,86,N,5
+NEW CALEDONIA,2011,North Province,Kite Boarding,M,15,Y,5
+USA,2011,Florida,Surfing,M,37,N,5
+SOUTH AFRICA,2011,KwaZulu-Natal,Spearfishing,M,37,N,5
+USA,2011,Florida,Spearfishing,M,32,N,4
+AUSTRALIA,2011,Western Australia,Washing sand off a speared fish,M,17,N,4
+USA,2011,Florida,Surfing ,M,49,N,4
+NEW ZEALAND,2011,South Island,Surfing,M,41,N,4
+INDONESIA,2011,Bali,Surfing,M,0,N,4
+FIJI,2011,Vitu Levu,Diving,M,27,N,4
+MEXICO,2011,Quintana Roo,Swimming,F,0,N,3
+AUSTRALIA,2011,New South Wales,Surfing,M,48,N,3
+MEXICO,2011,Quintana Roo,Swimming,M,46,N,3
+FIJI,2011,other,Diving / fishing,M,30,N,3
+AUSTRALIA,2011,New South Wales,Wakeboarding,F,24,N,3
+AUSTRALIA,2011,New South Wales,Surfing,M,0,N,3
+NEW CALEDONIA,2011, Loyalty Islands,Spearfishing,M,21,N,2
+REUNION,2011,Saint Gilles ,Surfing,M,32,N,2
+AUSTRALIA,2011,South Australia,Diving for abalone,M,49,Y,2
+AUSTRALIA,2011,Western Australia,Snorkeling,M,58,N,2
+SOUTH AFRICA,2011,Eastern Cape Province,Surf fishing,M,37,N,2
+MEXICO,2011,Quintana Roo,Swimming,F,38,N,1
+BAHAMAS,2011,West End,Scuba diving,M,55,N,1
+SOUTH AFRICA,2011,Eastern Cape Province,Surfing,M,16,Y,1
+MEXICO,2011,Quintana Roo,Attempting to fix motor,M,37,N,1
+USA,2010,Hawaii,Body boarding,M,16,N,12
+FIJI,2010,Vitu Levu,Surfing,M,0,N,12
+USA,2010,Hawaii,Surfing,M,46,N,12
+EGYPT,2010,South Sinai Peninsula,Snorkeling,F,70,Y,12
+INDONESIA,2010,Bali,Surfing,M,0,N,12
+EGYPT,2010,South Sinai Peninsula,Snorkeling,M,54,N,12
+EGYPT,2010,South Sinai Peninsula,Snorkeling,M,46,N,12
+EGYPT,2010,South Sinai Peninsula,Snorkeling,F,70,N,11
+EGYPT,2010,South Sinai Peninsula,Snorkeling,F,48,N,11
+SAMOA,2010,other,Fishing,M,47,N,11
+DOMINICAN REPUBLIC,2010,other,Diving,M,21,Y,11
+INDONESIA,2010,Bali,Surfing,M,0,N,11
+AUSTRALIA,2010,Western Australia,Snorkeling,F,20,N,10
+AUSTRALIA,2010,Western Australia,Spearfishing,M,0,N,10
+USA,2010,Oregon,Surfing,M,0,N,10
+USA,2010,Maine,Scuba diving,M,30,N,10
+AUSTRALIA,2010,Western Australia,Kite Surfing,M,14,N,10
+USA,2010,California,Body boarding,M,19,Y,10
+EGYPT,2010,South Sinai Peninsula,Snorkeling,F,0,N,10
+AUSTRALIA,2010,New South Wales,Surfing,M,22,N,10
+BAHAMAS,2010,Exuma Islands,Snorkeling,M,0,N,10
+BAHAMAS,2010,Abaco Islands,Surfing,F,0,N,10
+SOUTH AFRICA,2010,Western Cape Province,Surfing,M,Teen,N,10
+USA,2010,Oregon,Surfing,M,29,N,9
+USA,2010,Virginia,Surfing,M,18,N,9
+SOUTH AFRICA,2010,Western Cape Province,Swimming,M,29,Y,9
+AUSTRALIA,2010,New South Wales,Surfing,M,15,N,9
+USA,2010,Florida,Swimming,M,27,N,9
+TONGA,2010,Ha'api ,Swimming /  Whale Watching,M,24,N,9
+USA,2010,Florida,Surfing,M,0,N,9
+USA,2010,Florida,Surfing,M,24,N,9
+USA,2010,Florida,Surfing,M,24,N,9
+SOLOMON ISLANDS,2010,Western Province,other,M,34,N,9
+USA,2010,Florida,Boogie Boarding,M,10,N,8
+AUSTRALIA,2010,Western Australia,Surfing,M,31,Y,8
+SOUTH KOREA,2010,Jeju Province,Swimming,F,16,N,8
+AUSTRALIA,2010,New South Wales,Surfing,M,47,N,8
+USA,2010,North Carolina,Surfing,M,25,N,8
+MALTA,2010,other,Windsurfing,M,35,N,8
+USA,2010,Florida,Standing,F,37,N,8
+USA,2010,South Carolina,Standing,M,16,N,7
+USA,2010,Florida,Surfing,M,20,N,7
+USA,2010,South Carolina,Swimming,M,10,N,7
+USA,2010,North Carolina,Swimming,F,13,N,7
+USA,2010,Florida,Surfing,M,55,N,7
+USA,2010,Texas,Fishing,M,0,N,7
+SOUTH AFRICA,2010,KwaZulu-Natal,Snorkeling,F,21,N,7
+USA,2010,California,Surfing,M,19,N,7
+USA,2010,California,Stand-Up Paddleboarding,M,48,N,7
+USA,2010,Texas,Surfing,M,20,N,6
+USA,2010,South Carolina,Boogie Boarding,F,6,N,6
+USA,2010,North Carolina,Swimming,F,13,N,6
+VIETNAM,2010,Binh Dinh Province,Swimming,M,17,N,6
+USA,2010,Florida,Boogie Boarding,F,18,N,6
+AUSTRALIA,2010,Western Australia,Surfing,M,40,N,6
+USA,2010,Florida,Surfing,M,20,N,6
+VIETNAM,2010,Binh Dinh Province,Rescuing,F,58,N,5
+VIETNAM,2010,Binh Dinh Province,Swimming,F,60,N,5
+AUSTRALIA,2010,New South Wales,Surfing,M,0,N,5
+MADAGASCAR,2010,Antsiranana Province,Scuba diving,M,59,N,5
+USA,2010,Florida,Wading,F,10,N,5
+USA,2010,Hawaii,Surfing,M,68,N,4
+SOUTH AFRICA,2010,Eastern Cape Province,Surfing,M,35,N,4
+EGYPT,2010,Sinai Peninsula,Swimming / treading water,M,24,N,4
+REUNION,2010,Saint-Benoit,Surfing,M,34,N,3
+NEW ZEALAND,2010,South Island,Swimming,M,0,N,2
+SOUTH AFRICA,2010,Eastern Cape Province,Surfing,M,0,N,2
+FIJI,2010,Off Vanua Levu,Scuba diving,M,19,Y,2
+AUSTRALIA,2010,Queensland,Snorkeling,F,60,N,2
+AUSTRALIA,2010,New South Wales,Surfing,M,46,N,2
+AUSTRALIA,2010,New South Wales,Body boarding,M,18,N,2
+USA,2010,Florida,Kite Boarding,M,38,Y,2
+BRAZIL,2010,Rio Grande Do Sul,Surfing,M,29,N,1
+AUSTRALIA,2010,Queensland,Surfing,M,0,N,1
+UNITED ARAB EMIRATES (UAE),2010,Dubai,Surfing,M,54,N,1
+AUSTRALIA,2010,Victoria,Surfing,M,0,N,1
+SOUTH AFRICA,2010,Western Province,Standing,M,37,Y,1
+AUSTRALIA,2010,Torres Strait,Snorkeling,F,9,N,1
+VIETNAM,2010,Binh Dinh Province,other,F,0,N,1
+VIETNAM,2010,Binh Dinh Province,other,M,0,N,1
+VIETNAM,2010,Binh Dinh Province,Bathing,M,0,N,1
+USA,2010,Florida,Spearfishing,M,32,N,1
+SOUTH AFRICA,2010,Eastern Province,Surfing,M,0,N,1
+SOUTH AFRICA,2009,Eastern Cape  Province,Wading,M,20,N,12
+MOZAMBIQUE,2009,Maputo Province,Swimming,M,27,N,12
+AUSTRALIA,2009,Queensland,Spearfishing,M,18,N,12
+SOUTH AFRICA,2009,Eastern Cape Province,Paddling on kneeboard,M,22,Y,12
+NEW ZEALAND,2009,South Island,Swimming to shore from capsized kayak,M,24,Y,12
+AUSTRALIA,2009,New South Wales,Surfing,M,39,N,12
+USA,2009,Florida,Wading,M,10,N,11
+USA,2009,California,Fishing,M,31,N,11
+USA,2009,Florida,Surfing,M,22,N,11
+USA,2009,Florida,Surfing,F,27,N,11
+USA,2009,Florida,Surfing,M,18,N,11
+AUSTRALIA,2009,South Australia,Kayaking,M,25,N,11
+USA,2009,California,Surfing,M,21,N,11
+MOZAMBIQUE,2009,Inhambane Province,Spearfishing,M,0,N,10
+AUSTRALIA,2009,New South Wales,Paddle-boarding,F,17,N,10
+USA,2009,California,Surfing,M,0,N,10
+USA,2009,Hawaii,Surfing,M,54,N,10
+PANAMA,2009,Bocas,Wading,F,10,N,10
+AUSTRALIA,2009,Western Australia,Diving,M,23,N,10
+USA,2009,California,Surfing,M,0,N,10
+USA,2009,Florida,Swimming,M,0,N,9
+VIETNAM,2009,other,other,M,0,N,9
+BRAZIL,2009,Pernambuco,"Swimming, attempting to rescue a girl  believed to be drowning",M,15,Y,9
+USA,2009,California,Surfing,M,0,N,8
+SOUTH AFRICA,2009,Western Cape Province,Surfing,M,25,Y,8
+USA,2009,California,Swimming,F,22,N,8
+SOUTH AFRICA,2009,KwaZulu-Natal,Body boarding,M,0,N,8
+USA,2009,Florida,Swimming,M,26,N,8
+USA,2009,Hawaii,Surfing,M,0,N,8
+USA,2009,Louisiana,Wade Fishing,M,56,N,8
+BAHAMAS,2009,Abaco Islands,Spearfishing,M,14,N,7
+AUSTRALIA,2009,New South Wales,Surfing,M,14,N,7
+VIETNAM,2009,Binh Dinh Province,Swimming,F,41,N,7
+KENYA,2009,Mombasa,Washing his feet,M,0,Y,7
+USA,2009,Texas,Wading,F,14,N,7
+USA,2009,North Carolina,Swimming,F,26,N,7
+USA,2009,Florida,Swimming,F,19,N,7
+VIETNAM,2009,Binh Dinh Province,Swimming,M,57,N,7
+USA,2009,California,Paddle-surfing,M,0,N,7
+SOUTH AFRICA,2009,Western Cape Province,Surfing,M,37,N,7
+USA,2009,Florida,Boogie Boarding,F,12,N,7
+AUSTRALIA,2009,New South Wales,Surfing,M,52,N,6
+EGYPT,2009,St. Johns Reef,Scuba diving,M,0,N,6
+EGYPT,2009,St. Johns Reef,Scuba diving,M,0,N,6
+EGYPT,2009,St. Johns Reef,Snorkeling,F,50,Y,6
+USA,2009,Florida,Surfing,M,31,N,5
+USA,2009,Florida,Surfing,M,49,N,5
+USA,2009,Florida,Surfing,M,55,N,5
+USA,2009,Florida,other,F,0,N,4
+USA,2009,California,Surfing,M,0,N,4
+USA,2009,Florida,Surfing,M,20,N,4
+PHILIPPINES,2009,Batangas province,Swimming,M,23,N,4
+USA,2009,Florida,Surfing,M,52,N,4
+USA,2009,Florida,Surfing,M,31,N,4
+AUSTRALIA,2009,New South Wales,Surf skiing ,M,40,N,4
+USA,2009,California,Spearfishing,M,0,N,4
+USA,2009,Florida,Wading,M,15,N,4
+SOUTH AFRICA,2009,Eastern Cape Province,Surfing,M,16,Y,3
+AUSTRALIA,2009,New South Wales,Surfing,M,17,N,3
+AUSTRALIA,2009,New South Wales,Surfing,M,0,N,3
+AUSTRALIA,2009,New South Wales,Surfing,F,0,N,3
+USA,2009,Florida,Surfing,F,17,N,3
+MALAYSIA,2009,Strait of Malacca,Feeding fish,F,0,N,3
+USA,2009,Hawaii,Swimming,M,61,N,3
+NEW CALEDONIA,2009,South Province,Surfing,M,19,Y,3
+AUSTRALIA,2009,New South Wales,Surfing,M,15,N,3
+AUSTRALIA,2009,Queensland,Fishing,M,0,N,2
+AUSTRALIA,2009,New South Wales,Surfing,M,0,N,2
+AUSTRALIA,2009,New South Wales,Surfing,M,33,N,2
+AUSTRALIA,2009,New South Wales,"Diving, but on the surface when bitten by the shark",M,31,N,2
+AUSTRALIA,2009,New South Wales,Surfing,M,41,N,2
+AUSTRALIA,2009,New South Wales,Surfing,M,0,N,2
+CUBA,2009,Guantanamo Province,Spearfishing,M,15,N,1
+AUSTRALIA,2009,New South Wales,Swimming,M,19,N,1
+SOUTH AFRICA,2009,Eastern Cape Province,Swimming,M,25,Y,1
+NEW ZEALAND,2009,South Island,Surfing,M,0,N,1
+SOUTH AFRICA,2009,Western Cape Province,other,UNKNOWN,0,Y,1
+AUSTRALIA,2009,New South Wales,Snorkeling,M,24,N,1
+AUSTRALIA,2009,Tasmania,Surfing,F,13,N,1
+AUSTRALIA,2009,New South Wales,Surfing,M,31,N,1
+ECUADOR,2009,Galapagos Islands,Surfing,M,22,N,1
+NEW ZEALAND,2009,North Island,Swimming,M,49,N,1
+CUBA,2009,Guantanamo Province,Spearfishing,UNKNOWN,0,N,1
+AUSTRALIA,2008,New South Wales,Boogie Boarding,M,10,N,12
+AUSTRALIA,2008,Western Australia,Snorkeling,M,51,Y,12
+NEW ZEALAND,2008,North Island,Fishing,M,0,N,12
+MOZAMBIQUE,2008,Inhambane Province,Spearfishing,M,0,Y,12
+EGYPT,2008,Red Sea,Scuba diving,F,0,N,11
+ECUADOR,2008,Galapagos Islands,other,F,0,N,11
+PHILIPPINES,2008,Luzon,Fishing,M,39,Y,11
+NEW CALEDONIA,2008,other,Spearfishing,M,24,N,10
+AUSTRALIA,2008,New South Wales,Surfing,M,15,N,10
+USA,2008,Florida,Fishing,M,11,N,10
+CROATIA,2008," Split-Dalmatia Count,",Spearfishing,M,43,N,10
+USA,2008,Florida,Surfing,M,44,N,9
+USA,2008,Florida,Surfing,M,40,N,9
+USA,2008,Florida,Swimming,M,32,N,9
+USA,2008,Hawaii,Surfing,M,40,N,9
+USA,2008,California,Surfing,M,0,N,9
+AUSTRALIA,2008,New South Wales,Surfing,M,51,N,9
+USA,2008,Florida,Surfing,M,43,N,9
+USA,2008,Florida,Surfing,M,15,N,9
+USA,2008,Florida,Surfing,M,52,N,9
+USA,2008,Florida,Surfing,M,0,N,9
+AUSTRALIA,2008,New South Wales,Surfing,M,29,N,8
+USA,2008,Florida,Surfing,M,19,N,8
+USA,2008,Florida,Surfing,M,26,N,8
+USA,2008,Florida,"Swimming, towing surfboard",M,20,N,8
+USA,2008,Florida,Swimming,M,47,N,8
+USA,2008,US Virgin Islands,Treading water,F,38,N,8
+USA,2008,Florida,Wading,F,13,N,8
+USA,2008,Hawaii,Diving,M,0,N,8
+AUSTRALIA,2008,Victoria,Surfing,M,31,N,7
+SOUTH AFRICA,2008,other,other,M,0,N,7
+PANAMA,2008,San Carlos,Swimming or surfing,M,0,N,7
+MEXICO,2008,Cabo San Lucas,Swimming,M,33,N,7
+USA,2008,Hawaii,Swimming,M,0,N,7
+USA,2008,Florida,Surfing,M,17,N,7
+USA,2008,Hawaii,Snorkeling,F,44,N,7
+USA,2008,North Carolina,Wading,M,9,N,7
+USA,2008,North Carolina,Wading,F,8,N,7
+USA,2008,Florida,Wading,M,16,N,7
+EGYPT,2008,other,Diving,M,0,N,7
+USA,2008,South Carolina,Surfing,M,24,N,7
+USA,2008,North Carolina,Swimming,F,14,N,7
+USA,2008,South Carolina,other,F,17,N,7
+BAHAMAS,2008,Abaco Islands,Spearfishing,M,42,N,6
+SOUTH AFRICA,2008,Western Cape Province,Surf skiing ,M,46,N,6
+SOUTH AFRICA,2008,Western Cape Province,Spearfishing (free diving),M,0,N,6
+USA,2008,Florida,Surfing,M,29,N,6
+USA,2008,South Carolina,Swimming,M,37,N,6
+BRAZIL,2008,Bahia,Surfing,M,0,N,6
+USA,2008,Florida,Wading,F,35,N,6
+BRAZIL,2008,Pernambuco,Surfing,M,14,N,6
+USA,2008,Florida,Body surfing,M,40,N,6
+USA,2008,South Carolina,Body surfing,F,15,N,6
+BRAZIL,2008,Pernambuco,Swimming,M,14,N,6
+USA,2008,North Carolina,Surfing,M,9,N,5
+MEXICO,2008,Guerro,Surfing,M,49,N,5
+MEXICO,2008,Guerro,Surfing,M,21,Y,5
+FIJI,2008,Yasawa Islands,Night diving,M,28,Y,5
+AUSTRALIA,2008,Western Australia,Swimming,M,37,N,5
+NEW CALEDONIA,2008,North Province,Fishing,M,40,N,5
+USA,2008,Florida,Wading,M,6,N,5
+MEXICO,2008,Guerro,Surfing,M,24,Y,4
+USA,2008,Florida,Surfing,M,18,N,4
+USA,2008,Florida,Surfing,M,24,N,4
+NEW CALEDONIA,2008,North Province,Swimming,M,32,N,4
+USA,2008,California,Swimming,M,66,Y,4
+USA,2008,Florida,Surfing,M,14,N,4
+AUSTRALIA,2008,New South Wales,other,M,0,UNKNOWN,4
+USA,2008,Florida,Surfing,M,30,N,4
+FIJI,2008,other,Spearfishing,M,0,N,4
+USA,2008,Florida,Wading,M,15,N,3
+USA,2008,Florida,Surfing,UNKNOWN,0,N,4
+AUSTRALIA,2008,New South Wales,Body boarding,M,16,Y,4
+USA,2008,Florida,Walking out of the water after surfing,M,18,N,4
+SOUTH AFRICA,2008,KwaZulu-Natal,Fishing from surfski,M,39,N,3
+USA,2008,Florida,Surfing,M,52,N,3
+USA,2008,Florida,Boogie Boarding,M,0,N,3
+USA,2008,Florida,Walking out of the water after surfing,M,13,N,3
+USA,2008,Florida,Wading,M,14,N,3
+USA,2008,Florida,Jet skiing,M,8,N,3
+USA,2008,California,Surfing,M,27,N,3
+BAHAMAS,2008,Northern Bahamas,Diving,M,49,Y,2
+FRENCH POLYNESIA,2008,Society Islands,Spearfishing,M,26,N,2
+USA,2008,Florida,Surfing,M,25,N,2
+AUSTRALIA,2008,New South Wales,Surfing,F,14,N,2
+USA,2008,Florida,Surf-skiing,M,0,N,2
+SOUTH AFRICA,2008,KwaZulu-Natal,Surf-skiing,M,42,N,1
+USA,2008,Florida,Surfing,M,20,N,1
+MEXICO,2008,Baja California,Surfing,M,26,N,0
+ECUADOR,2007,Galapagos Islands,Surfing,M,24,N,12
+AUSTRALIA,2007,New South Wales,Surfing,M,31,N,12
+AUSTRALIA,2007,Queensland,Swimming,M,teen,N,12
+USA,2007,Hawaii,Surfing,M,52,N,12
+NEW ZEALAND,2007,South Island,Surfing,F,0,N,12
+BRAZIL,2007,Pernambuco,Removing fish from a trap,M,28,N,12
+AUSTRALIA,2007,New South Wales,Surfing,M,0,N,11
+SOUTH AFRICA,2007,Western Cape Province,Surfing,M,14,N,11
+USA,2007,Florida,Surfing,M,21,N,11
+USA,2007,Florida,Surfing,M,42,N,11
+SOUTH AFRICA,2007,Eastern Cape Province,Surfing,M,37,N,11
+USA,2007,Hawaii,Floating,M,32,N,10
+AUSTRALIA,2007,New South Wales,Surf-skiing,F,52,N,10
+AUSTRALIA,2007,Queensland,Spearfishing,M,31,N,10
+USA,2007,California,Surfing,M,22,N,10
+USA,2007,Florida,Surfing,M,16,N,10
+USA,2007,California,Surfing,M,0,N,9
+NEW CALEDONIA,2007,Loyalty Islands,Swimming,F,23,Y,9
+BAHAMAS,2007,Grand Bahama Island,Spearfishing,F,48,N,9
+USA,2007,California,Surfing,F,0,N,9
+EGYPT,2007,Red Sea,Swimming,F,18 or 20,N,9
+USA,2007,Florida,Surfing,F,0,N,9
+USA,2007,Florida,Surfing,M,23,N,9
+SOLOMON ISLANDS,2007,Marovo Lagoon,Spearfishing,M,0,N,9
+USA,2007,Florida,Wading?,M,56,N,9
+USA,2007,Florida,Surfing,F,Teen,N,9
+USA,2007,Florida,Snorkeling,M,14,N,9
+USA,2007,Florida,Wading,F,58,N,9
+USA,2007,Florida,Wading,F,36,N,9
+USA,2007,South Carolina,Standing,M,15,N,9
+USA,2007,Florida,Jumping,F,12,N,9
+USA,2007,Florida,Swimming,M,58,N,9
+USA,2007,Hawaii,Body boarding,M,15,N,8
+USA,2007,California,Surfing,M,24,N,8
+USA,2007,Florida,Surfing,M,54,N,8
+USA,2007,Florida,Surfing,M,27,N,8
+USA,2007,Florida,Swimming,M,52,N,8
+USA,2007,Florida,Surfing,M,16,N,8
+USA,2007,South Carolina,Playing,M,7,N,8
+USA,2007,Florida,Floating near boat & observing bioluminesce,M,20,N,8
+USA,2007,Florida,Swimming,F,15,N,8
+USA,2007,Florida,Walking out of the water after surfing,M,19,N,8
+USA,2007,South Carolina,Swimming,M,30,N,8
+USA,2007,South Carolina,Boogie Boarding,M,9,N,8
+USA,2007,Florida,Jumped into the water,F,19,N,8
+USA,2007,Florida,Surfing,M,51,N,7
+USA,2007,California,Surfing,M,20,N,7
+USA,2007,California,Surf paddling,M,0,N,7
+USA,2007,Hawaii,Snorkeling,M,36,N,7
+AUSTRALIA,2007,Territory of Cocos (Keeling) Islands,Wading,M,15,N,7
+USA,2007,North Carolina,Swimming,M,14,N,7
+USA,2007,North Carolina,Wading,F,30,N,7
+BAHAMAS,2007,Abaco Islands,Spearfishing,F,48,N,7
+USA,2007,Florida,Surfing,M,18,N,7
+REUNION,2007,other,Body boarding,M,17,N,7
+USA,2007,California,Swimming,F,0,N,6
+USA,2007,Florida,Surfing,M,20,N,6
+USA,2007,Hawaii,Surfing,M,0,N,6
+USA,2007,Florida,Swimming,F,0,N,6
+AUSTRALIA,2007,New South Wales,Surfing,M,0,N,6
+USA,2007,South Carolina,Wading,F,0,N,5
+AUSTRALIA,2007,Western Australia,Wading,F,38,N,5
+AUSTRALIA,2007,Victoria,Surfing,M,19,N,5
+USA,2007,Florida,Surfing,F,21,N,5
+SEYCHELLES,2007,Bird Island,Snorkeling,M,0,N,5
+USA,2007,Hawaii,Snorkeling,F,63,N,5
+USA,2007,Florida,Swimming,M,68,N,5
+AUSTRALIA,2007,Queensland,Swimming / jumping off a jetty,F,13,N,4
+USA,2007,Florida,Body boarding,M,12,N,4
+USA,2007,Florida,Surfing,M,24,N,4
+NEW CALEDONIA,2007,South Province,Surfing,M,26,N,4
+USA,2007,Florida,Playing on a sandbar,M,7,N,4
+USA,2007,Florida,Surfing,M,27,N,3
+USA,2007,Florida,other,M,9,N,3
+YEMEN,2007,Muhafazat Hadramawt,Murder,UNKNOWN,0,Y,3
+USA,2007,Florida,Surfing,M,11,N,3
+AUSTRALIA,2007,New South Wales,Surfing,F,42,N,3
+AUSTRALIA,2007,Queensland,Swimming,F,59,N,3
+USA,2007,Florida,Surfing,M,29,N,3
+AUSTRALIA,2007,New South Wales,Boogie Boarding,M,26,N,2
+NEW CALEDONIA,2007,Loyalty Islands,Spearfishing,M,0,N,2
+NEW CALEDONIA,2007,North Province,Spearfishing (free diving),M,30,N,1
+AUSTRALIA,2007,New South Wales,Diving,M,41,N,1
+SOUTH AFRICA,2007,Eastern Cape Province,Swimming / Body Surfing,M,24,Y,1
+AUSTRALIA,2007,New South Wales,Surfing,M,0,N,1
+USA,2007,Hawaii,Surfing,M,24,N,1
+AUSTRALIA,2006,Victoria,Surfing,M,25,N,12
+NEW ZEALAND,2006,North Island,Surfing,M,10,N,12
+USA,2006,California,Surfing,M,43,N,12
+AUSTRALIA,2006,Western Australia,Body boarding,M,15,N,12
+USA,2006,Hawaii,Swimming,M,29,N,11
+USA,2006,Oregon,Surfing,M,22,N,10
+USA,2006,Florida,Fishing,M,15,N,10
+USA,2006,Florida,Surfing,M,20,N,10
+USA,2006,Texas,Surfing,M,0,N,10
+USA,2006,Florida,Playing soccer in the water,M,18,N,10
+BAHAMAS,2006,New Providence Island,Free diving / modeling,F,26,N,10
+GULF OF ADEN,2006,Between Somalia & Yemen,Murder,UNKNOWN,0,Y,10
+USA,2006,Florida,Surfing,M,19,N,9
+USA,2006,North Carolina,Surfing,M,16,N,9
+USA,2006,Florida,Swimming,M,55,N,9
+USA,2006,Florida,Surfing,M,52,N,9
+BRAZIL,2006,other,other,M,20,Y,9
+USA,2006,Florida,Standing,M,33,N,9
+USA,2006,Florida,Swimming,M,12 or 13,N,9
+SOUTH AFRICA,2006,Western Cape Province,Surfing,M,37,N,9
+USA,2006,Oregon,Surfing,M,23,N,8
+AUSTRALIA,2006,South Australia,Surfing,M,0,N,8
+REUNION,2006,Saint-Gilles-les-Bains,Body boarding,M,27,N,8
+REUNION,2006,Saint-Pierre,Surfing,M,34,Y,8
+SOUTH AFRICA,2006,Western Cape Province,Surfing,M,0,N,8
+SOUTH AFRICA,2006,Western Cape Province,Lifesaving drill,M,24,N,8
+USA,2006,North Carolina,Wading,F,59,N,8
+REUNION,2006,other,Spearfishing,M,0,N,8
+USA,2006,Oregon,Surfing,M,41,N,7
+USA,2006,Florida,Surfing,M,15,N,7
+SOUTH AFRICA,2006,Western Cape Province,Surf-skiing,M,19,N,7
+USA,2006,Florida,Surfing,M,14,N,7
+USA,2006,Texas,Surf fishing,M,0,N,7
+USA,2006,South Carolina,Standing,M,49,N,7
+USA,2006,South Carolina,Swimming,F,21,N,7
+BRAZIL,2006,Pernambuco,other,M,0,Y,7
+USA,2006,Florida,Wading,M,40,N,7
+USA,2006,Florida,Walking,M,11,N,7
+USA,2006,South Carolina,Body boarding,F,14,N,7
+USA,2006,Florida,Swimming,M,13,N,7
+USA,2006,Florida,Spearfishing,F,28,N,6
+USA,2006,Florida,Spearfishing,M,35,N,6
+USA,2006,Florida,Body boarding,F,9,N,6
+BAHAMAS,2006,Andros Islands,Spearfishing,M,25,N,6
+USA,2006,Florida,Surfing,F,22,N,6
+BRAZIL,2006,Pernambuco,Body boarding,M,27,Y,6
+USA,2006,California,Scuba diving,M,43,N,6
+USA,2006,Florida,Surfing,M,24,N,6
+USA,2006,South Carolina,Playing,F,7,N,6
+AUSTRALIA,2006,South Australia,Surfing,M,40,N,6
+USA,2006,Hawaii,Spearfishing,M,26,N,5
+USA,2006,Hawaii,Surfing,M,31,N,5
+BRAZIL,2006,Pernambuco,Surfing,M,33,N,5
+USA,2006,Guam,Scuba diving,F,30s,N,5
+USA,2006,Florida,other,M,0,N,5
+USA,2006,Florida,Swimming,F,20s,N,5
+USA,2006,Florida,Surfing,M,54,N,4
+USA,2006,Florida,Standing,F,13,N,4
+AUSTRALIA,2006,New South Wales,Surfing,M,15,N,4
+SOUTH AFRICA,2006,Eastern Cape Province,Body boarding,M,15,N,4
+BRAZIL,2006,Pernambuco,Swimming,M,35,N,4
+USA,2006,Florida,Wading,M,11,N,4
+Sierra Leone,2006,Western Area,Fishing,M,0,Y,3
+USA,2006,Hawaii,Surfing,F,28,N,3
+FIJI,2006,Vitu Levu,Surfing,M,21,N,3
+AUSTRALIA,2006,New South Wales,Surfing,M,15,N,3
+USA,2006,Hawaii,Standing,F,15,N,2
+AUSTRALIA,2006,Queensland,Wading,M,18,N,2
+AUSTRALIA,2006,Queensland,Swimming,M,0,N,2
+SOUTH AFRICA,2006,Eastern Cape Province,Surfing,M,15,N,2
+TONGA,2006,Vava'u,Swimming,F,24,Y,2
+SOUTH AFRICA,2006,Eastern Cape Province,Spearfishing,M,34,N,1
+USA,2006,California,Night Surfing,M,0,N,1
+AUSTRALIA,2006,Western Australia,Scuba diving,M,52,N,1
+AUSTRALIA,2006,Queensland,Swimming,F,21,Y,1
+USA,2006,Florida,Surfing,M,21,N,1
+SOUTH AFRICA,2006,Western Cape Province,Diving for crayfish,M,49,N,1
+USA,2005,Oregon,Surfing,M,30,N,12
+USA,2005,Hawaii,Swimming,M,29,N,12
+AUSTRALIA,2005,Queensland,Spearfishing,M,44,N,12
+USA,2005,Florida,Surfing,M,teen,N,11
+USA,2005,Florida,Surfing,M,23,N,11
+AUSTRALIA,2005,Victoria,Surfing,M,18,N,11
+SOUTH AFRICA,2005,Eastern Cape Province,Surfing,M,26,N,11
+NEW CALEDONIA,2005,Loyalty Islands,Spearfishing,UNKNOWN,0,N,11
+USA,2005,Florida,Surfing,M,30s,N,11
+USA,2005,Florida,Surfing,M,17,N,11
+USA,2005,Florida,Surfing,M,18,N,11
+USA,2005,California,Surfing,M,25,N,11
+USA,2005,California,Surfing,M,26,N,11
+USA,2005,Florida,Wading,M,15,N,10
+ST. MAARTIN,2005,Simpson Bay,Standing,M,55,N,10
+SOUTH AFRICA,2005,Western Cape Province,Standing / Surfing,M,20,N,10
+USA,2005,California,Surfing,M,36,N,10
+USA,2005,California,Surfing,F,20,N,10
+USA,2005,Hawaii,Surfing,M,22,N,10
+GRAND CAYMAN,2005,East Wall,Scuba diving,F,57,N,10
+USA,2005,Florida,Treading water/ Surfing,M,48,N,10
+BAHAMAS,2005,Abaco Islands,Diving,M,35,N,10
+SOUTH AFRICA,2005,Western Cape Province,Surf-skiing,M,52,N,10
+AUSTRALIA,2005,New South Wales,Surfing,M,28,N,9
+AUSTRALIA,2005,South Australia,Surfing,M,26,N,9
+AUSTRALIA,2005,Western Australia,Surfing,M,44,N,9
+USA,2005,South Carolina,Body surfing,F,68,N,9
+USA,2005,South Carolina,Surfing,M,18,Y,9
+AUSTRALIA,2005,New South Wales,Standing,M,15,N,9
+USA,2005,North Carolina,Wading,F,18,N,9
+AUSTRALIA,2005,South Australia,Surfing,M,40,N,9
+USA,2005,Florida,Standing / Surfing,M,62,N,9
+AUSTRALIA,2005,South Australia,Scuba diving,M,23,Y,8
+USA,2005,California,Surfing,M,37,N,8
+USA,2005,South Carolina,Swimming,M,8,N,8
+USA,2005,Texas,Walking,M,12,N,8
+USA,2005,North Carolina,Surfing,M,16,N,8
+USA,2005,South Carolina,Swimming,M,14,N,8
+USA,2005,Florida,Wading,F,13,N,7
+USA,2005,Florida,Surfing,M,61,N,7
+USA,2005,North Carolina,Swimming,M,22,N,7
+USA,2005,Texas,Holding onto an inflatable boat,F,14,N,7
+USA,2005,Florida,Standing,M,19,N,7
+USA,2005,Florida,Fishing,M,16,N,6
+USA,2005,Florida,Swimming with boogie board,F,14,Y,6
+VANUATU,2005,Malampa Province,Swimming,F,7,Y,6
+MEXICO,2005,Baja California,Surfing,M,0,N,6
+USA,2005,Florida,Swimming,M,20,N,6
+SOUTH KOREA,2005,South Ch'ungch'ong Province,Diving,F,38,N,6
+USA,2005,South Carolina,Boogie boarding,F,11,N,6
+SOUTH AFRICA,2005,Western Cape Province,Spearfishing (Free diving),M,22,Y,6
+USA,2005,Texas,Wading,M,6,N,6
+USA,2005,Florida,Swimming,M,33,N,5
+USA,2005,Florida,Crouching in 2' of water,F,0,N,5
+SOUTH AFRICA,2005,Eastern Cape Province,Surfing,M,32,N,5
+AUSTRALIA,2005,Queensland,Spearfishing,M ,0,N,5
+MADAGASCAR,2005,other,Fishing,M,0,N,5
+USA,2005,Hawaii,Surfing,M,47,N,5
+AUSTRALIA,2005,New South Wales,other,UNKNOWN,0,N,4
+AUSTRALIA,2005,Northern Territory,Spearfishing,M,20,N,4
+AUSTRALIA,2005,New South Wales,Surfing,M,40,N,4
+USA,2005,Florida,Wading,F,70,N,4
+USA,2005,Texas,Surfing,M,37,N,4
+USA,2005,Florida,other,F,0,N,4
+SOUTH AFRICA,2005,Western Cape Province,Surfing,M,32,N,3
+AUSTRALIA,2005,New South Wales,Surfing,M,0,N,3
+VENEZUELA,2005,other,Surfing,M,0,N,3
+AUSTRALIA,2005,Western Australia,Snorkeling,M,26,Y,3
+SOLOMON ISLANDS,2005,Santa Isabel Province,Diving,M,0,N,3
+AUSTRALIA,2005,Queensland,Swimming,M,18,N,2
+USA,2005,Hawaii,Surfing,M,0,N,2
+USA,2005,Florida,Spearfishing,M,0,N,2
+BRAZIL,2005,Bahia,Surfing,M,12,N,2
+CUBA,2005,Santiago de Cuba Province,Swimming,M,19,N,1
+AUSTRALIA,2004,South Australia,Scurfing (surfboard being  towed behind a boat),M,18,Y,12
+AUSTRALIA,2004,Queensland,Spearfishing,M,38,Y,12
+SOUTH AFRICA,2004,Eastern Cape Province,Surfing,M,20,N,11
+SOUTH AFRICA,2004,Eastern Cape Province,Playing,M,16,N,11
+SOUTH AFRICA,2004,Western Cape Province,Swimming,F,77,Y,11
+USA,2004,California,Surfing,UNKNOWN,38,N,11
+VANUATU,2004,Malampa Province,Snorkeling,M,30s,N,11
+NEW CALEDONIA,2004,North Province,Diving,UNKNOWN,0,N,11
+CUBA,2004,Camaguey Province,Diving,M,40,N,10
+SOUTH AFRICA,2004,Western Cape Province,Chumming for white sharks,M,52,N,10
+AUSTRALIA,2004,New South Wales,Surfing,M,59,N,10
+USA,2004,California,Surfing,M,0,N,10
+USA,2004,Hawaii,Spearfishing,M,34,N,10
+SOUTH AFRICA,2004,Eastern Cape Province,Surfing,M,34,N,10
+REUNION,2004,Conservatória District,Body boarding,M,15,N,10
+USA,2004,California,Surfing,M,16,N,10
+USA,2004,California,Surfing,M,40,N,10
+USA,2004,Oregon,Surfing,M,26,N,9
+BRAZIL,2004,Pernambuco,Swimming,UNKNOWN,0,Y,9
+USA,2004,South Carolina ,Jumping,F,17,N,9
+USA,2004,Florida,Walking,F,38,N,8
+BRAZIL,2004,Pernambuco,Bathing,M,24,N,8
+USA,2004,California,Surfing,M,0,N,8
+USA,2004,California,Diving,M,50,Y,8
+USA,2004,Florida,Swimming,M,47,N,8
+AUSTRALIA,2004,New South Wales,Spearfishing,M,30,N,8
+USA,2004,Florida,Surfing,F,20,N,7
+RUSSIA,2004,Kuril Islands in the Pacific,Diving & fishing with net,M,0,N,7
+USA,2004,North Carolina,Surfing,F,28,N,7
+USA,2004,North Carolina,Swimming,F,13,N,7
+USA,2004,Texas,Swimming,F,19,N,7
+USA,2004,Texas,Wading / fishing & carrying a bag of fish,M,11,N,7
+JAPAN,2004,Wakayama Prefecture,Fishing for squid aboard the trawler Shikishima-Maru when the shark leapt into the boat,M,51,N,7
+AUSTRALIA,2004,Western Australia,Surfing,M,30,Y,7
+EGYPT,2004,Sinai Peninsula,Snorkeling,F,Teen,N,7
+USA,2004,Alabama,Wading,M,7,N,7
+USA,2004,California,Surfing,M,45,N,6
+USA,2004,Florida,In water with diving seabirds,F,0,N,6
+AUSTRALIA,2004,Western Australia,Body boarding,M,17,N,6
+USA,2004,Florida,Swimming,M,8,N,6
+SOUTH AFRICA,2004,Western Cape Province,"Swimming, poaching perlemoen",M,21,Y,6
+USA,2004,Texas,Wading,M,16,N,5
+BRAZIL,2004,Pernambuco,Swimming,M,17,N,5
+USA,2004,California,Surfing,M,44,N,5
+USA,2004,Florida,Boogie-boarding / swimming,M,9,N,5
+USA,2004,Florida,other,F,9,N,5
+BRAZIL,2004,Pernambuco,Wading,F,24,N,5
+USA,2004,Texas,Tandem surfing,M,28,N,5
+BRAZIL,2004,Pernambuco,Swimming,M,22,Y,5
+AUSTRALIA,2004,New South Wales,Diving,M,0,N,4
+TONGA,2004,Nuku'alofa,Five men on makeshift raft after their 10 m fishing boat  capsized and sank in rough seas. Survivors rescued after  7.5 hours in the water,M,0,Y,4
+USA,2004,Hawaii,Surfing,M,57,Y,4
+SOUTH AFRICA,2004,Western Cape Province,Surfing,M,16,N,4
+USA,2004,Florida,other,M,26,N,3
+USA,2004,Florida,Surfing,M,20,N,3
+BRAZIL,2004,Pernambuco,Body boarding,M,22,N,3
+USA,2004,Florida,Surfing,M,0,N,3
+REUNION,2004,Saint-Benoît,Surfing,M,20,N,3
+USA,2004,Florida,Swimming,M,61,N,3
+USA,2004,Hawaii,Snorkeling,F,0,N,3
+NEW ZEALAND,2004,North Island,Spearfishing,M,0,N,3
+USA,2004,Hawaii,Surfing,M,51,N,3
+AUSTRALIA,2004,Western Australia,Spearfishing,M,47,N,3
+BRAZIL,2004,Pernambuco,Swimming,M,29,Y,2
+NEW ZEALAND,2004,"South Island, near Karitane north of Dunedin",Surfing,M,15,N,2
+AUSTRALIA,2004,New South Wales,Swimming,M,0,N,2
+EGYPT,2004,other,Snorkeling,M,0,Y,2
+AUSTRALIA,2004,New South Wales,Snorkeling,M,22,N,2
+AUSTRALIA,2004,Western Australia,Scuba diving,M,46,N,1
+URUGUAY,2004,Rocha,Surfing,M,21,N,1
+VENEZUELA,2004,Anzoategui,Swimming,M,0,N,1
+VENEZUELA,2004,Anzoategui,Spearfishing,M,40,N,1
+AUSTRALIA,2004,New South Wales,Diving,M,0,N,1
+SOUTH AFRICA,2004,Eastern Cape Province,Surfing,M,22,N,1
+AUSTRALIA,2004,Western Australia,Surfing,M,0,N,0
+USA,2003,Florida,Swimming,M,13,N,12
+NEW ZEALAND,2003,Cook Islands,Swimming / shipwreck,M,45,Y,12
+AUSTRALIA,2003,Victoria,Surfing amid a shoal of sharks,M,36,N,12
+AUSTRALIA,2003,Western Australia,Swimming,M,0,N,11
+AUSTRALIA,2003,Western Australia,Swimming,M,0,N,11
+SOUTH AFRICA,2003,KwaZulu-Natal,Spearfishing,M,21,Y,11
+USA,2003,Florida,Surfing,F,35,N,11
+INDIA,2003,Tamil Nadu,Swimming or surfing,M,35,N,11
+USA,2003,Florida,Surfing,M,24,N,11
+EGYPT,2003,Sinai Peninsula,Snorkeling,M,0,N,11
+SOUTH AFRICA,2003,KwaZulu-Natal,Surf skiing,UNKNOWN,0,N,11
+AUSTRALIA,2003,New South Wales,Standing,M,0,N,11
+USA,2003,Florida,Surfing,M,18,N,10
+AUSTRALIA,2003,New South Wales,Surfing,M,22,N,10
+USA,2003,Hawaii,Surfing,F,13,N,10
+USA,2003,Florida,Surfing,M,46,N,10
+USA,2003,Florida,Surfing,M,19,N,10
+USA,2003,Florida,Surfing,F,0,N,10
+USA,2003,Florida,Surfing,M,18,N,10
+USA,2003,Florida,Sitting on surfboard,M,50,N,10
+USA,2003,Hawaii,Wading near a fishing net,F,41,N,10
+FIJI,2003,Taveuni,Wading to shore from his boat,M,40,Y,9
+USA,2003,Florida,Surfing,M,16,N,9
+USA,2003,Florida,Surfing,M,21,N,9
+USA,2003,Florida,Surfing,M,19,N,9
+USA,2003,Florida,Surfing,M,17,N,9
+USA,2003,Florida,Surfing,M,30,N,9
+USA,2003,Florida,Body boarding,M,18,N,9
+USA,2003,South Carolina,"Standing, stepped on shark",M,15,N,9
+SOUTH AFRICA,2003,Western Cape Province,Body boarding,M,19,Y,9
+USA,2003,Florida,Wade-fishing,M,0,N,9
+USA,2003,California,"Swimming, wearing black wetsuit & swim fins",F,50,Y,8
+SOUTH AFRICA,2003,Eastern Cape Province,Sitting on surfboard,M,16,N,8
+AUSTRALIA,2003,Northern Territory,Surf skiing,M,37,N,7
+USA,2003,Florida,Surfing,M,18,N,7
+USA,2003,Florida,Wading,F,15,N,7
+BAHAMAS,2003,Abaco Islands,Spearfishing,M,58,N,7
+USA,2003,Florida,Surfing,M,21,N,7
+BAHAMAS,2003,Abaco Islands,Spearfishing,M,39,N,7
+USA,2003,Florida,Spearfishing,M,0,N,7
+FRENCH POLYNESIA,2003,Society Islands,Spearfishing,M,0,N,7
+NEW ZEALAND,2003,Cook Islands,Snorkeling,M,0,N,7
+USA,2003,Florida,Surfing,M,17,N,6
+USA,2003,Florida,Surfing,M,15,N,6
+BRAZIL,2003,Pernambuco,other,M,0,Y,6
+USA,2003,Florida,Standing,F,12,N,6
+USA,2003,Hawaii,Swimming with pod of dolphins,M,60,N,6
+USA,2003,Johnston Atoll,Swimming,M,51,N,6
+USA,2003,North Carolina,Surfing ,M,33,N,6
+USA,2003,Florida,Surfing,UNKNOWN,15,N,6
+USA,2003,Florida,Surfing,M,18,N,5
+USA,2003,Florida,Wading,M,22,N,5
+USA,2003,Hawaii,Swimming,M,20,N,5
+USA,2003,Florida,Walking,F,9,N,5
+PHILIPPINES,2003,Baatan,other,UNKNOWN,0,N,5
+BRAZIL,2003,Rio de Janeiro,Swimming ,M,16,N,4
+BRAZIL,2003,Pernambuco,Surfing,M,17,N,4
+BRAZIL,2003,Rio de Janeiro,Swimming,M,7,N,4
+USA,2003,Florida,Surfing,M,36,N,4
+USA,2003,Florida,Surfing,M,17,N,4
+USA,2003,Florida,Surfing,M,30,N,4
+USA,2003,Florida,Surfing,M,23,N,4
+USA,2003,Florida,Surfing,M,18,N,4
+USA,2003,Florida,Jumping,M,11,N,4
+USA,2003,Florida,Surfing,M,12,N,4
+USA,2003,Florida,Swimming (using a float),M,20,N,4
+VENEZUELA,2003,Nueva Esparta,Surfing,M,28,N,4
+USA,2003,Florida,Surfing,M,0,N,4
+USA,2003,Florida,Surfing,M,50,N,4
+NEW ZEALAND,2003,Southland,Scuba diving,M,44,N,2
+AUSTRALIA,2003,South Australia,Wading,M,37,N,2
+USA,2003,Florida,Swimming,M,54,N,2
+AUSTRALIA,2003,New South Wales,Swimming,M,24,N,2
+AUSTRALIA,2003,Queensland,Swimming,M,84,Y,2
+COSTA RICA,2003,North Pacific coast,Surfing,M,0,N,1
+AUSTRALIA,2003,Western Australia,Surfing,F,0,N,1
+AUSTRALIA,2002,Queensland,Snorkeling,F,18,N,12
+SOUTH AFRICA,2002,Western Cape Province,Snorkeling,M,25,N,12
+AUSTRALIA,2002,Queensland,Scuba diving,M,26,N,12
+AUSTRALIA,2002,Queensland,Swimming,M,23,Y,12
+BRAZIL,2002,Pernambuco,Surfing,M,19,Y,12
+MICRONESIA,2002,Caroline Islands,Scuba diving,M,0,N,11
+USA,2002,California,Body boarding,M,48,N,11
+USA,2002,Hawaii,Swimming,F,34,N,11
+TURKS & CAICOS,2002,Caicos Bank,Snorkeling,F,41,N,11
+USA,2002,Florida,Surfing,M,21,N,11
+USA,2002,Florida,Boogie boarding,M,16,N,11
+FRENCH POLYNESIA,2002,Society Islands,"Fishing, standing in 2' of water",M,52,N,11
+USA,2002,Hawaii,Swimming,F,60,N,10
+BRAZIL,2002,Pernambuco,Swimming,M,36,Y,10
+USA,2002,Florida,Surfing,M,21,N,10
+USA,2002,Florida,Surfing,M,14,N,10
+USA,2002,Florida,Surfing,M,35,N,10
+USA,2002,Florida,Surfing,M,18,N,10
+USA,2002,Florida,Surfing,M,47,N,9
+USA,2002,Florida,Surfing,M,32,N,9
+USA,2002,Hawaii,Fishing from Surfboard,M,55,N,9
+USA,2002,Oregon,Boogie boarding or Surfing,M,24,N,9
+USA,2002,California,Surfing,M,35,N,9
+BRAZIL,2002,Pernambuco,Swimming,M,19,N,9
+USA,2002,Hawaii,Body boarding,UNKNOWN,0,N,9
+SOUTH AFRICA,2002,Western Cape Province,Surf skiing,M,47,N,9
+USA,2002,Florida,Boogie boarding,M,20,N,9
+USA,2002,Hawaii,Surfing,M,16,N,8
+USA,2002,Alabama,Swimming,F,29,N,8
+USA,2002,Florida,Surfing,M,27,N,8
+USA,2002,Florida,Surfing,M,15,N,8
+USA,2002,Florida,Standing,M,15,N,8
+USA,2002,North Carolina,Standing,M,14,N,8
+USA,2002,South Carolina,Surfing,M,13,N,7
+USA,2002,North Carolina,Swimming,F,15,N,7
+BRAZIL,2002,Pernambuco,Surfing,M,22,N,7
+USA,2002,North Carolina,Standing,F,9,N,7
+AUSTRALIA,2002,Queensland,Surfing,M,30,N,6
+USA,2002,Florida,Swimming,F,11,N,6
+PAPUA NEW GUINEA,2002,Louisiade Archipelago,other,UNKNOWN,0,N,6
+PAPUA NEW GUINEA,2002,Louisiade Archipelago,Attempting to retreive a dinghy,UNKNOWN,0,Y,6
+USA,2002,Hawaii,Sitting on surfboard,UNKNOWN,0,N,6
+USA,2002,Florida,Surfing,M,28,N,6
+USA,2002,Florida,Surfing,M,50,N,6
+USA,2002,Florida,Swimming,M,10,N,6
+SOUTH AFRICA,2002,KwaZulu-Natal between Port Edward and Port St Johns,Snorkeling (filming the sardine run),M,50,N,6
+USA,2002,California,Surfing,M,24,N,5
+USA,2002,Florida,Floating on a raft,M,16,N,5
+USA,2002,Florida,Playing in the surf with his 2 dogs,M,35,N,5
+COSTA RICA,2002,Guanacaste,Surfing,M,0,N,5
+PAPUA NEW GUINEA,2002,Milne Bay Province,Collecting beche-de-mer,M,14,N,5
+USA,2002,Florida,Fishing,M,31,N,5
+BRAZIL,2002,Pernambuco,Surfing,M,40,N,5
+AUSTRALIA,2002,South Australia,Scallop diving (using surface-supplied air & a POD) ,M,23,Y,4
+USA,2002,Florida,"Surfing, but standing in water alongside board",M,34,N,4
+USA,2002,Florida,Surfing,M,28,N,4
+AUSTRALIA,2002,New South Wales,Swimming,M,45,N,4
+BAHAMAS,2002,Abaco Islands,Standing,M,43,N,4
+USA,2002,Florida,Wading,M,41,N,4
+USA,2002,Florida,Swimming / Wading,M,29,N,4
+USA,2002,Hawaii,Body-boarding,M,17,N,3
+USA,2002,Florida,Wading,F,11,N,3
+BRAZIL,2002,Pernambuco,Swimming,M,16,Y,3
+USA,2002,Florida,Swimming /  boogie boarding,M,20,N,3
+USA,2002,Florida,Snorkeling,M,39,N,3
+USA,2002,Florida,Surfing,M,31,N,3
+TURKS & CAICOS,2002,other,Capsized fishing boat,M,0,Y,2
+AUSTRALIA,2002,Queensland,Surfing,M,30 or 36,N,2
+FIJI,2002,Cikobia Island (north of Vanua Levu),other,M,15,Y,2
+AUSTRALIA,2002,New South Wales,Surfing,M,20,N,1
+AUSTRALIA,2002,Western Australia,Swimming,M,32,N,1
+SOUTH AFRICA,2002,KwaZulu-Natal,Fishing,M,16,N,1
+BRAZIL,2002,Pernambuco,Swimming,UNKNOWN,0,Y,1
+SOUTH AFRICA,2002,KwaZulu-Natal,Surf skiing,M,26,N,1
+USA,2002,Hawaii,Snorkeling,M,35,N,1
+AUSTRALIA,2001,New South Wales,Surfing,M,49,N,11
+USA,2001,Hawaii,Surfing,UNKNOWN,0,N,11
+SOUTH AFRICA,2001,KwaZulu-Natal,Kite-Boarding,M,0,N,10
+AUSTRALIA,2001,Queensland,Snorkeling,F,20,N,10
+MEXICO,2001,Guerrero,Body surfing,M,26,N,9
+USA,2001,Florida,Surfing,M,14,N,9
+USA,2001,Florida,Boogie boarding,M,65,N,9
+USA,2001,North Carolina,Surfing,M,16,N,9
+USA,2001,Florida,Walking in shallows,M,13,N,9
+USA,2001,North Carolina,Swimming ,M,28,Y,9
+USA,2001,North Carolina,Swimming,F,23,N,9
+USA,2001,Florida,Wading,M,20,N,9
+USA,2001,Virginia,Swimming ,M,10,Y,9
+BAHAMAS,2001,Abaco Islands,Spearfishing,M,44,N,8
+USA,2001,Florida,Standing,F,29,N,8
+USA,2001,Florida,Wading,M,69,N,8
+USA,2001,Florida,Boogie Boarding,M,18,N,8
+USA,2001,Florida,Boogie Boarding,M,18,N,8
+USA,2001,Florida,Surfing,M,17,N,8
+USA,2001,Florida,Surfing,M,27,N,8
+USA,2001,Florida,Surfing,M,32,N,8
+USA,2001,Florida,Surfing,F,17,N,8
+USA,2001,Florida,Surfing,F,17,N,8
+USA,2001,Florida,Surfing,M,20,N,8
+USA,2001,Florida,Surfing,M,19,N,8
+USA,2001,Florida,Surfing,M,19,N,8
+BAHAMAS,2001,Grand Bahama Island,Spearfishing,M,43,N,8
+THAILAND,2001,Rayong Province,Fell off banana boat,M,21 & ?,N,8
+USA,2001,South Carolina,other,F,0,N,8
+BAHAMAS,2001,Grand Bahama Island,Swimming,M,36,N,8
+USA,2001,South Carolina,other,F,0,N,7
+USA,2001,Florida,other,M,0,N,7
+USA,2001,Florida,other,F,0,N,7
+USA,2001,Florida,Surfing,M,48,N,7
+USA,2001,Florida,Boogie boarding,M,18,N,7
+MEXICO,2001,Baja California,Surfing,M,42,N,7
+USA,2001,Florida,Swimming,M,8,N,7
+USA,2001,South Carolina,other,UNKNOWN,0,N,7
+USA,2001,Georgia,Floating face-down in knee-deep water,M,35,N,7
+USA,2001,Texas,Swimming,M,14,N,6
+USA,2001,South Carolina,Wading,F,29,N,6
+USA,2001,Texas,other,M,16,N,5
+USA,2001,South Carolina,Swimming,M,11,N,5
+USA,2001,South Carolina,Swimming,M,0,N,5
+SOUTH AFRICA,2001,Eastern Cape Province,Surfing,M,26,N,5
+AUSTRALIA,2001,New South Wales,Surfing,M,33 or 37,N,5
+USA,2001,Florida,Surfing,M,45,N,5
+FIJI,2001,Taveuni,"Spearfishing, carrying his catch",M,0,Y,5
+USA,2001,Florida,Boogie boarding,M,14,N,4
+USA,2001,Florida,Surfing,M,16,N,4
+USA,2001,Florida,Surfing,M,12,N,4
+USA,2001,Florida,other,M,35,N,4
+USA,2001,Florida,Surfing,M,38,N,4
+USA,2001,Florida,Surfing,M,21,N,4
+USA,2001,Florida,Body boarding,M,12,N,4
+USA,2001,Florida,Surfing,M,22,N,4
+USA,2001,Florida,Surfing,M,19,N,4
+USA,2001,Florida,Surfing,M,22,N,4
+USA,2001,Hawaii,Surfing,M,0,N,4
+USA,2001,Florida,Surfing,UNKNOWN,16,N,4
+SOUTH AFRICA,2001,Eastern Cape Province,Surfing,M,46,N,4
+USA,2001,Florida,Standing alongside surfboard,M,26,N,4
+BRAZIL,2001,Rio Grande de Norte,Batin,F,12,N,4
+AUSTRALIA,2001,New South Wales,Surfing,M,40,N,4
+USA,2001,Hawaii,Body-boarding,M,0,N,3
+USA,2001,Florida,Surfing,M,0,N,3
+BRAZIL,2001,Pernambuco,Swimming,M,20,Y,3
+AUSTRALIA,2001,New South Wales,Surfing,M,40,N,2
+CUBA,2001,Holquin Province,Swimming,F,55,N,1
+USA,2001,California,Surfing,M,0,N,1
+AUSTRALIA,2000,Queensland,Scuba diving,M,23,N,12
+FIJI,2000,Taveuni,Swimming back from anchored sailboat,M,47,Y,12
+CANADA,2000,New Brunswick,Diving for sea urchins,M,30,N,12
+AUSTRALIA,2000,Queensland,Spearfishing,M,38,N,12
+NEW ZEALAND,2000,Cook Islands,Surfing,F,0,Y,12
+AUSTRALIA,2000,Queensland,Diving (shell maintenance),M,28,N,11
+USA,2000,Florida,Swimming,M,73,N,11
+AUSTRALIA,2000,Western Australia,Swimming,M,52,N,11
+AUSTRALIA,2000,Western Australia,Swimming,M,49,Y,11
+USA,2000,California,Surfing,M,27,N,11
+USA,2000,Florida,Surfing,M,23,N,10
+USA,2000,Hawaii,Swimming / snorkeling,F,56,N,10
+USA,2000,Florida,Swimming,M,69,N,10
+USA,2000,Florida,Surfing,M,17,N,10
+USA,2000,Florida,Surfing,M,23,N,10
+USA,2000,Florida,Body surfing,M,11,N,10
+USA,2000,North Carolina,Surfing,M,24,N,10
+USA,2000,California,Sitting on surfboard,M,0,N,9
+AUSTRALIA,2000,South Australia,Surfing,M,17,Y,9
+AUSTRALIA,2000,South Australia,Surfing,M,25,Y,9
+OKINAWA,2000,Miyako Island,Surfing,M,31,Y,9
+USA,2000,South Carolina,other,UNKNOWN,0,N,9
+USA,2000,Florida,Standing / surfing,M,49,N,9
+USA,2000,Florida,Surfing,F,26,N,9
+USA,2000,Florida,Swimming / Body surfing,M,25,N,9
+USA,2000,Florida,Swimming,M,8,N,9
+SOUTH AFRICA,2000,Western Cape Province,Free diving,M,48,N,9
+TANZANIA,2000,other,Swimming,M,28,Y,9
+USA,2000,Florida,Wading,M,40,N,9
+REUNION,2000,Saint-Pierre,Surfing,M,27,N,9
+TANZANIA,2000,other,Swimming,UNKNOWN,0,Y,9
+USA,2000,Florida,Swimming,M,47,N,8
+USA,2000,Florida,Jumped into the water,M,69,Y,8
+USA,2000,North Carolina,Swimming out to porpoises ,M,0,N,8
+USA,2000,Hawaii,"Windsurfing, but sitting on his board",M,53,N,8
+USA,2000,Florida,Surfing / Wading,M,27,N,8
+USA,2000,Florida,Standing,F,44,N,8
+TANZANIA,2000,other,Swimming,UNKNOWN,0,Y,8
+USA,2000,Florida,other,M,5,N,7
+USA,2000,Florida,Snorkeling,F,45,N,7
+USA,2000,North Carolina,Surfing,M,16,N,7
+USA,2000,North Carolina,Surfing,M,14,N,7
+SOUTH AFRICA,2000,Eastern Cape Province,Surfing,M,15,N,7
+SOUTH AFRICA,2000,Eastern Cape Province,Surfing,M,18,N,7
+SOUTH AFRICA,2000,KwaZulu-Natal,Surfing,M,0,N,7
+TONGA,2000,Minerva Reef,Scuba diving,M,69,N,7
+USA,2000,Florida,Wading,M,13,N,7
+USA,2000,Florida,Swimming ,M,41,N,7
+USA,2000,Texas,Jumping,M,5,N,7
+USA,2000,North Carolina,Playing,F,12,N,7
+USA,2000,Florida,Wading,F,20,N,7
+USA,2000,Florida,"Spearfishing, holding mesh bag with speared fish",F,55,N,7
+USA,2000,Florida,Wading,F,13,N,7
+USA,2000,Florida,Standing,F,19,N,7
+TANZANIA,2000,other,Swimming,UNKNOWN,0,Y,7
+PAPUA NEW GUINEA,2000,Madang Province,other,M,0,Y,6
+USA,2000,Florida,Standing,M,52,N,6
+USA,2000,Texas,Surfing,M,17,N,6
+USA,2000,Alabama,Swimming,M,55,N,6
+USA,2000,Alabama,Swimming ,M,44,N,6
+USA,2000,Florida,Snorkeling,M,13,N,6
+TANZANIA,2000,other,Swimming,M,0,Y,6
+PAPUA NEW GUINEA,2000,Madang Province,Standing,M,9,N,5
+PAPUA NEW GUINEA,2000,Madang Province,Diving,M,0,Y,5
+USA,2000,Florida,Walking,M,34,N,4
+USA,2000,Florida,Boogie boarding / wading,M,0,N,4
+USA,2000,Florida,Fishing,M,0,N,3
+AUSTRALIA,2000,Queensland,Swimming,M,26,N,3
+USA,2000,Florida,Boogie boarding,F,14,N,3
+USA,2000,Florida,Surfing,M,37,N,3
+NEW CALEDONIA,2000,North Province,Spearfishing,M,35,Y,3
+AUSTRALIA,2000,New South Wales,Surfing,M,0,N,3
+AUSTRALIA,2000,New South Wales,Swimming,M,0,N,3
+USA,2000,Louisiana,Spearfishing,M,39,N,3
+USA,2000,Florida,other,M,27,N,2
+SOUTH AFRICA,2000,Western Cape Province,Body surfing,M,0,N,2
+NEW ZEALAND,2000,South Island,Surfing,M,12,N,2
+AUSTRALIA,2000,South Australia,Surfing,M,26,N,2
+THAILAND,2000,Phang nga Province,Diving,M,35,Y,1
