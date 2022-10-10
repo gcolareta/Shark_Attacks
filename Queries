@@ -1,5 +1,11 @@
--- Joining Attacks and Hemisphere tables
-SELECT * 
-FROM Attacks
-LEFT JOIN Hemisphere
-ON Attacks.Country = Hemisphere.Country;
+-- Joining Unprovoked and Hemisphere tables
+SELECT u.*,
+	h.hemisph
+INTO merged_unprovoked
+FROM Unprovoked as u
+INNER JOIN Hemisphere as h
+ON u.country = h.country;
+
+SELECT *
+FROM merged_unprovoked;
+ 
