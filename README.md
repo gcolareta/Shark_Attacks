@@ -84,7 +84,7 @@ Please find below the ERD
 
 ![Untitled](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Presentation/Untitled.png)
 
-![Tableaumap](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Presentation/Tableaumap.png)
+![Tableaumap](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Tableaumap.png)
 
 **Index of the Presentation** (Please see Presentation folder)
 
