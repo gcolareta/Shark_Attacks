@@ -15,3 +15,4 @@ CREATE TABLE Unprovoked (
     Country VARCHAR (40),
     PRIMARY KEY (hemisph, Country)
  );
+
