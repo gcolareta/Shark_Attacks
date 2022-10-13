@@ -127,9 +127,9 @@ Link to presentation [here.](https://docs.google.com/presentation/d/1-4ribN1Dg5g
 
 + Recommendations
 
-![Tableaumap](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Tableaumap.png)
+![t1](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/t1.png)
 
-***Model Results***
+## Model Results
 
 ![m1](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/m1.png)
 ![m2](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/m2.png)
