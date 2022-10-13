@@ -76,3 +76,5 @@ The final dataframe will be stored in the database on Postgres SQL server where 
 Please find below the ERD
 
 ![Database%20ERD](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Database%20ERD.png)
+
+Link to presentation [here](https://docs.google.com/presentation/d/1-4ribN1Dg5gjK3FFSbmOSGDMfZ7oMYYi/edit?usp=sharing&ouid=110213487638788178903&rtpof=true&sd=true)
