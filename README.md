@@ -62,29 +62,56 @@ Which factors contribute to a fatal vs non-fatal shark attack?
   - Monday, Wednesday (during class time)
   - Tuesday (TBD)
 
-## Machine Learning Model
-We will conduct a logistic regression model. The target variable we are trying to predict is the fatality of the bite. We will explore which features are most likely to produce a fatal vs. not fatal shark attack. Such features include: Date, year, type, country , area, location, victim's activity, injury, time, and species.  There is risk associated with all ocean activities and while the risk of a shark attack is very low, it still occurs fairly frequently.  With this information we hope to shine light on which factors contribute toward the attack having a fatal outcome or not. 
+### Technology
+- Git Hub 
+- Excel
+- Pandas and Jupyter notebook
+- Postgress SQL
+- Supervised Machine Learning Models
+- Google collab
+- Google slides
+- Slack
+- Tableau
+- Zoom
 
-Data will need to be cleaned to eliminate non-relevant variables. Text features will have to to converted into numeric data and the numeric data will need to be scaled before the models can ran. In the end, we will produce a confusion matrix and classification report to determine if the model was successful.
+### Data preprocessing
+
+Data was cleaned to eliminate irrelevant variables. Text features were converted into numeric data and the encoded values were scaled before storing the data in the database and to be used by the model.
+
+In the process we came accross of several challenges due to the quality of the data.  Bins were created to group the activities in which victims were involved at the moment of the attack. Besides, the month was extracted from the case number, rather than the date column, due to the inconsistencies of the data types in that column.
+
+Null values in the activities, age and sex columns were replaced by other, 0, and unknown, respectively. 
+
 
 ## Database Integration
 
-The ERD of the database comprises two main tables: Attacks and Hemisphere.   
-The table attack will be the result of the cleanup and final merging of the two shark attacks datasets above mentioned.  The table Hemisphere will be used to do a join with the Shark table, which will make possible to incorporate the season in the analysis.   
-The new table created by the join of Shark table and Hemisphere table will be exported from PG Admin as csv file for further ETL in Pandas,  where the column season will be added to the dataframe.  Season column will be one of the contributor features for the model. 
-The final dataframe will be stored in the database on Postgres SQL server where a new table will be created for this purpose.  Besides other tables will be created in the database to import the results obtained from the model.
-Please find below the ERD
+The ERD of the database was created comprising two main tables: Unprovoked and Hemisphere.
+Hemisphere table was created to do a join with Unprovoked table,  which made possible to incorporate the season in the analysis.    
+
+The newly created table "df" was uploaded in Jupyter Notebook from PG Admin as a csv file  by using an engine for the integration of the database with the model and for the creation of the season column in Pandas.  Season column was added as one of the contributor features for the model. 
+
+The final dataframe with the season incorporated was stored in the database on Postgres SQL server where a new table was created for this purpose.  Besides, the table "Model_results" was  created in the database to store the results obtained from the model.
+![m2](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/m2.png)
 
 ![Database%20ERD](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Database%20ERD.png)
 ![Join](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Join.png)
 
 
+## Machine Learning Model
+We  conducted a logistic regression model. The target variable we were trying to predict is the fatality of the bite. We  explored which features are more likely to produce a fatal vs. not fatal shark attack. Such features include:  year, type, country , area and  victim's activity  
+
+There is risk associated with all ocean activities and while the risk of a shark attack is very low, it still occurs fairly frequently.  With this information we hope to shine light on which factors contribute toward the attack having a fatal outcome or not. 
+
+Although date, location, injuries were considered as features at the begining of the project, on the road they were taken off the model due to inconsistency and low quatility of the raw data which made the preprocessing extremely challenging.
+
+Additional features added: hemisphere, month and season trying build a more robust dataset for the model.
+
+A confusion matrix and classification report were created to determine if the model was successful.
+
 ![model](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/model.png)
 
 
-![Untitled](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Presentation/Untitled.png)
-
-![Tableaumap](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Tableaumap.png)
+### Presentation
 
 **Index of the Presentation** (Please see Presentation folder)
 
@@ -99,3 +126,26 @@ Please find below the ERD
 + Machine Learning Model
 
 + Recommendations
+
+
+![Tableaumap](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/Tableaumap.png)
+
+***Model Results***
+
+![m1](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/m1.png)
+![m2](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/m2.png)
+![m3](https://github.com/gcolareta/Shark_Attacks/blob/connectime4ever/m3.png)
+
+
+***Summary***
++ The features chosen are inconclusive when trying to predict whether the shark attacks are fatal or not. 
++ There is an imbalance in the occurrances of fatal and non fatal attacks so this fact makes difficult for the model to predict the likehood of fatalities.
++ For future projects it is recommended to follow other approaches that might serve better the customer expectations regarding safety analysis. 
++ For example other variables could be added are:
+  - beach attendance, to predict the probabilty of shark attacks by area/location,
+  - severity of attacks, 
+  - migration patterns 
+  - climate change factor (sea temperature, food chain...)
+  - type of attendees (visitors, locals)
++ In this case an unsupervised machine learning model will be used to identify the labels for the predictive model to be used. 
++ Another recommendation is to compare shark attacks to other life threatening events.
